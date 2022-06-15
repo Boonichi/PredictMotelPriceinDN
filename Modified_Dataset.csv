@@ -1,0 +1,747 @@
+,Price,Area,Deposit Fee,Furniture,Ward,District
+0,1600000,20,500000,, Hòa Thọ Đông, Cẩm Lệ
+1,1100000,40,50000,Nội thất đầy đủ, Thuận Phước, Hải Châu
+2,1500000,20,500000,Nhà trống, Hòa Phát, Cẩm Lệ
+3,2500000,25,2500000,Nội thất đầy đủ, Hòa Minh, Liên Chiểu
+4,1200000,30,1000000,Nội thất đầy đủ, Thuận Phước, Hải Châu
+5,3000000,25,3000000,, Phước Mỹ, Sơn Trà
+6,2800000,25,2800000,Nội thất đầy đủ, Phước Ninh, Hải Châu
+7,1500000,20,300000,, Thọ Quang, Sơn Trà
+8,2600000,30,2600000,, Khuê Mỹ, Ngũ Hành Sơn
+9,1650000,20,1000000,, Mân Thái, Sơn Trà
+10,1300000,20,1300000,, Hòa Minh, Liên Chiểu
+11,1100000,18,1100000,Nhà trống, Hòa Cường Nam, Hải Châu
+12,2600000,30,500000,, An Hải Bắc, Sơn Trà
+13,3500000,30,3500000,, An Hải Đông, Sơn Trà
+14,2200000,24,,, Hòa Khánh Nam, Liên Chiểu
+15,1700000,15,1000000,Nội thất đầy đủ, Hòa Minh, Liên Chiểu
+16,1500000,20,,Nhà trống, Hòa Cường Nam, Hải Châu
+17,1650000,20,,, Hoà Hải, Ngũ Hành Sơn
+18,1300000,20,500000,Nội thất đầy đủ, Hoà Hải, Ngũ Hành Sơn
+19,2000000,27,,, Khuê Trung, Cẩm Lệ
+20,2200000,23,2200000,Nội thất đầy đủ, Hòa Phát, Cẩm Lệ
+21,5000000,40,,Nội thất đầy đủ, Hải Châu I, Hải Châu
+22,2000000,20,2000000,Nội thất đầy đủ, Hòa Thuận Tây, Hải Châu
+23,2000000,40,500000,Nhà trống, Hoà Hải, Ngũ Hành Sơn
+24,1000000,18,,Nhà trống, Thanh Khê Tây, Thanh Khê
+25,700000,25,,, Hòa Khánh Bắc, Liên Chiểu
+26,1700000,18,1700000,Nhà trống, An Khê, Thanh Khê
+27,3900000,40,,Tình trạng nội thất: Nội thất cao cấp, Khuê Mỹ, Ngũ Hành Sơn
+28,1200000,15,1,, Thanh Bình, Hải Châu
+29,1700000,25,1000000,Nhà trống, Mỹ An, Ngũ Hành Sơn
+30,900000,15,,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+31,2000000,30,,Nhà trống, Hòa An, Cẩm Lệ
+32,2500000,20,,, Thanh Bình, Hải Châu
+33,1500000,20,500000,Nội thất đầy đủ, An Khê, Thanh Khê
+34,2200000,30,,, An Hải Tây, Sơn Trà
+35,1400000,17,1000000,, Hòa Minh, Liên Chiểu
+36,2000000,25,,Nội thất đầy đủ, Hoà Hải, Ngũ Hành Sơn
+37,2200000,70,500000,, An Hải Đông, Sơn Trà
+38,2000000,25,1500000,Nhà trống, Hòa Phước, Hòa Vang
+39,1600000,30,,Tình trạng nội thất: Nội thất cao cấp, An Khê, Thanh Khê
+40,1500000,20,500000,Nhà trống, Hòa Thuận Tây, Hải Châu
+41,2000000,25,1000000,Nhà trống, Thanh Khê Tây, Thanh Khê
+42,1000000,25,500000,Nhà trống, Hòa Xuân, Cẩm Lệ
+43,1500000,25,1500000,, Nại Hiên Đông, Sơn Trà
+44,2000000,25,1000000,, Mân Thái, Sơn Trà
+45,2000000,15,,, Hòa Thuận Tây, Hải Châu
+46,2500000,30,2500000,Nhà trống, Vĩnh Trung, Thanh Khê
+47,1000000,360,500000,Tình trạng nội thất: Nội thất cao cấp, Hòa Cường Nam, Hải Châu
+48,2500000,35,2000000,, Chính Gián, Thanh Khê
+49,1400000,18,500000,, Hòa Thọ Đông, Cẩm Lệ
+50,900000,25,,, Hòa Phong, Hòa Vang
+51,1600000,20,1600000,, Hoà Quý, Ngũ Hành Sơn
+52,1200000,20,500000,Nội thất đầy đủ, Hòa Cường Nam, Hải Châu
+53,1000000,4,500000,, An Hải Bắc, Sơn Trà
+54,900000,5,500000,, Hòa Cường Bắc, Hải Châu
+55,1500000,18,500000,Nhà trống, Hòa Cường Bắc, Hải Châu
+56,1200000,20,1000000,, Hòa Minh, Liên Chiểu
+57,1400000,20,300000,, Hòa Khánh Bắc, Liên Chiểu
+58,800000,20,,Nội thất đầy đủ, Hòa Nhơn, Hòa Vang
+59,1600000,20,1600000,Nội thất đầy đủ, Hòa Phát, Cẩm Lệ
+60,1500000,100,500000,Nhà trống, Hòa Xuân, Cẩm Lệ
+61,3000000,50,100000,Nhà trống, Hoà Hải, Ngũ Hành Sơn
+62,3700000,40,,Nội thất đầy đủ, Khuê Mỹ, Ngũ Hành Sơn
+63,3000000,20,3000000,Nội thất đầy đủ, Phước Mỹ, Sơn Trà
+64,1800000,25,1000,Nội thất đầy đủ, Hòa Xuân, Cẩm Lệ
+65,2000000,20,2000000,Nội thất đầy đủ, An Khê, Thanh Khê
+66,1000000,20,,Nội thất đầy đủ, Khuê Trung, Cẩm Lệ
+67,1100000,12,500000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+68,3000000,30,2000000,Nội thất đầy đủ, An Hải Tây, Sơn Trà
+69,2000000,18,500000,Nội thất đầy đủ, Thạc Gián, Thanh Khê
+70,1600000,21,500000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+71,1500000,15,100000,Nhà trống, Hòa Khê, Thanh Khê
+72,1800000,24,,, Xuân Hà, Thanh Khê
+73,1500000,24,,, Hòa An, Cẩm Lệ
+74,1600000,15,1600000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+75,3500000,35,3500000,Nội thất đầy đủ, Mỹ An, Ngũ Hành Sơn
+76,1400000,27,,, Hòa Khánh Nam, Liên Chiểu
+77,1600000,25,500000,Nhà trống, Hòa An, Cẩm Lệ
+78,2500000,34,,, Hòa Khánh Bắc, Liên Chiểu
+79,2500000,30,500000,Nhà trống, An Hải Bắc, Sơn Trà
+80,3500000,30,3500000,Nội thất đầy đủ, Hòa Thuận Đông, Hải Châu
+81,4000000,40,,Nội thất đầy đủ, Mỹ An, Ngũ Hành Sơn
+82,3000000,20,3000000,, Thuận Phước, Hải Châu
+83,2700000,25,1000000,Nhà trống, Hòa Cường Nam, Hải Châu
+84,5000000,25,,Nội thất đầy đủ, Phước Ninh, Hải Châu
+85,1400000,20,500000,, Hòa Minh, Liên Chiểu
+86,3200000,40,3200000,Tình trạng nội thất: Nội thất cao cấp, Hòa Khánh Nam, Liên Chiểu
+87,1500000,45,1000000,Nhà trống, Thọ Quang, Sơn Trà
+88,2000000,20,,, Khuê Mỹ, Ngũ Hành Sơn
+89,2000000,30,1000000,, Hòa Khánh Nam, Liên Chiểu
+90,1800000,22,2000000,, Hoà Hải, Ngũ Hành Sơn
+91,3200000,70,,, Hòa Thọ Đông, Cẩm Lệ
+92,1400000,25,1400000,, Hòa Minh, Liên Chiểu
+93,1300000,20,1300000,, An Hải Bắc, Sơn Trà
+94,900000,12,200000,, Hòa Minh, Liên Chiểu
+95,1500000,18,,Nội thất đầy đủ, An Hải Đông, Sơn Trà
+96,1600000,22,,, Thanh Bình, Hải Châu
+97,1650000,25,1000000,Nhà trống, Mân Thái, Sơn Trà
+98,1500000,18,500000,Nhà trống, Thọ Quang, Sơn Trà
+99,1600000,22,,Nhà trống, Hòa Xuân, Cẩm Lệ
+100,1800000,25,1000000,Nhà trống, Khuê Trung, Cẩm Lệ
+101,1300000,12,500000,, An Khê, Thanh Khê
+102,1300000,25,1300000,Nhà trống, Thanh Khê Tây, Thanh Khê
+103,3000000,45,3000000,Nội thất đầy đủ, Thọ Quang, Sơn Trà
+104,1500000,20,,, Hòa Thọ Tây, Cẩm Lệ
+105,1500000,22,,, Thọ Quang, Sơn Trà
+106,1800000,20,,, Thanh Bình, Hải Châu
+107,2000000,30,1000000,, Khuê Mỹ, Ngũ Hành Sơn
+108,1800000,35,500000,, Hòa Xuân, Cẩm Lệ
+109,2300000,20,,, Khuê Trung, Cẩm Lệ
+110,2000000,30,,, An Khê, Thanh Khê
+111,700000,20,,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+112,1200000,25,1200000,Nhà trống, Xuân Hà, Thanh Khê
+113,1800000,24,,, Hoà Hải, Ngũ Hành Sơn
+114,3000000,35,3000000,Nội thất đầy đủ, Bình Hiên, Hải Châu
+115,3500000,30,,, Hoà Hải, Ngũ Hành Sơn
+116,900000,16,200000,Nội thất đầy đủ, Hòa Khánh Bắc, Liên Chiểu
+117,2000000,14,1000000,, Hòa Thuận Tây, Hải Châu
+118,7000000,120,123456789,, Hòa Minh, Liên Chiểu
+119,1100000,13,,Nội thất đầy đủ, An Khê, Thanh Khê
+120,1500000,15,,Nhà trống, Hòa An, Cẩm Lệ
+121,150000,18,500,Nhà trống, Hòa An, Cẩm Lệ
+122,2800000,25,1000000,Nội thất đầy đủ, An Khê, Thanh Khê
+123,1200000,20,,Nhà trống, Hòa Phước, Hòa Vang
+124,1500000,20,500000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+125,2500000,20,2500000,Nội thất đầy đủ, Hòa Phát, Cẩm Lệ
+126,2500000,18,2500000,Nội thất đầy đủ, Mỹ An, Ngũ Hành Sơn
+127,3000000,20,3000000,Nội thất đầy đủ, Hòa Minh, Liên Chiểu
+128,1000000,20,,Nội thất đầy đủ, Hòa Khánh Bắc, Liên Chiểu
+129,1500000,15,1500000,, Hòa Hiệp Bắc, Liên Chiểu
+130,2100000,30,500000,Nhà trống, Hòa Cường Bắc, Hải Châu
+131,12000000,125,,Nội thất đầy đủ, Hòa Khánh Bắc, Liên Chiểu
+132,2000000,20,500000,, Hòa Khê, Thanh Khê
+133,1000000,16,1000000,Nội thất đầy đủ, Hòa Thọ Tây, Cẩm Lệ
+134,2000000,22,500000,, Khuê Trung, Cẩm Lệ
+135,2500000,20,1000000,Nhà trống, Hòa Minh, Liên Chiểu
+136,1500000,15,500000,, Hòa Khánh Nam, Liên Chiểu
+137,1500000,20,500000,Nhà trống, Hòa Khê, Thanh Khê
+138,200000,18,2000000,Nhà trống, Hòa Thuận Tây, Hải Châu
+139,2000000,30,100000,Nhà trống, Tam Thuận, Thanh Khê
+140,2000000,25,2000000,Nhà trống, Thanh Khê Tây, Thanh Khê
+141,1800000,18,,, An Hải Đông, Sơn Trà
+142,1500000,15,200000,Nhà trống, Hòa Minh, Liên Chiểu
+143,800000,16,800000,, Thạc Gián, Thanh Khê
+144,1700000,22,500000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+145,800000,15,100000,, Hòa Thọ Tây, Cẩm Lệ
+146,1700000,15,500000,, Hòa Xuân, Cẩm Lệ
+147,1300000,25,1300000,Nhà trống, Thanh Khê Tây, Thanh Khê
+148,1200000,12,,, Thanh Khê Tây, Thanh Khê
+149,1000000,17,300000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+150,1500000,10,,, An Khê, Thanh Khê
+151,2500000,35,1000000,Nhà trống, Hoà Quý, Ngũ Hành Sơn
+152,1800000,20,1000000,Nhà trống, Hòa Minh, Liên Chiểu
+153,1300000,24,500000,Nhà trống, Hòa Khê, Thanh Khê
+154,1200000,18,,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+155,1300000,27,500000,Nhà trống, Hòa Thọ Tây, Cẩm Lệ
+156,2300000,20,,, Hòa Thuận Đông, Hải Châu
+157,1500000,15,500,Nội thất đầy đủ, Hòa Xuân, Cẩm Lệ
+158,1500000,15,300000,Nhà trống, Hòa Cường Bắc, Hải Châu
+159,1000000,25,200000,Nhà trống, Hòa Thuận Đông, Hải Châu
+160,100000,20,,, Thuận Phước, Hải Châu
+161,2300000,25,1000000,Nhà trống, Hòa Xuân, Cẩm Lệ
+162,2000000,15,2000000,, Hoà Hải, Ngũ Hành Sơn
+163,150000,20,300000,Nhà trống, Mỹ An, Ngũ Hành Sơn
+164,2500000,15,1000000,, An Hải Đông, Sơn Trà
+165,3000000,40,,Nhà trống, Vĩnh Trung, Thanh Khê
+166,1000000,25,,, Khuê Trung, Cẩm Lệ
+167,1500000,19,500000,, Phước Mỹ, Sơn Trà
+168,3500000,40,,Nội thất đầy đủ, Khuê Mỹ, Ngũ Hành Sơn
+169,1200000,20,5000,, Hòa Xuân, Cẩm Lệ
+170,1500000,18,1000000,Nhà trống, An Hải Bắc, Sơn Trà
+171,1200000,15,1200000,Nội thất đầy đủ, Hòa Cường Nam, Hải Châu
+172,1200000,15,,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+173,1800000,16,1000000,, Thuận Phước, Hải Châu
+174,600000,20,,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+175,1300000,20,600000,Nhà trống, Hòa Minh, Liên Chiểu
+176,900000,20,,Nhà trống, Hòa Khê, Thanh Khê
+177,1500000,25,500000,, Hòa Khánh Bắc, Liên Chiểu
+178,2000000,20,,, Hòa Xuân, Cẩm Lệ
+179,2000000,18,1000000,Nhà trống, Khuê Trung, Cẩm Lệ
+180,1000000,20,,, Hoà Quý, Ngũ Hành Sơn
+181,2500000,35,,, Hòa Minh, Liên Chiểu
+182,3500000,40,1000000,, Hòa Minh, Liên Chiểu
+183,4000000,60,500000,Nội thất đầy đủ, Thạch Thang, Hải Châu
+184,1200000,12,500000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+185,700000,15,,, Hòa Phước, Hòa Vang
+186,1300000,30,,, Thanh Bình, Hải Châu
+187,2000000,50,500000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+188,1100000,40,1100000,Nội thất đầy đủ, Phước Ninh, Hải Châu
+189,2300000,25,,Nội thất đầy đủ, An Hải Bắc, Sơn Trà
+190,2300000,22,,Nội thất đầy đủ, Hòa Thọ Đông, Cẩm Lệ
+191,1800000,25,,, Hòa Cường Nam, Hải Châu
+192,2000000,21,,Nội thất đầy đủ, Hòa Minh, Liên Chiểu
+193,2700000,40,1000000,Nội thất đầy đủ, Thanh Bình, Hải Châu
+194,1600000,20,500000,, Hòa Thọ Đông, Cẩm Lệ
+195,967000,30,100000,Nội thất đầy đủ, Hòa Cường Nam, Hải Châu
+196,2500000,25,2500000,Tình trạng nội thất: Nội thất cao cấp, Hòa Cường Nam, Hải Châu
+197,200000,30,,Nội thất đầy đủ, An Khê, Thanh Khê
+198,2500000,30,,, Hoà Hải, Ngũ Hành Sơn
+199,1200000,20,1200000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+200,1500000,10,,Nhà trống, Thạch Thang, Hải Châu
+201,3500000,30,,Nội thất đầy đủ, Hải Châu I, Hải Châu
+202,2400000,22,,Nội thất đầy đủ, Hòa Thọ Đông, Cẩm Lệ
+203,1500000,20,300000,Nhà trống, Mỹ An, Ngũ Hành Sơn
+204,1600000,25,,, Hòa Khánh Bắc, Liên Chiểu
+205,1000000,40,,, Hòa Khánh Bắc, Liên Chiểu
+206,1800000,15,,, Thuận Phước, Hải Châu
+207,2500000,35,,Nội thất đầy đủ, Hòa Minh, Liên Chiểu
+208,800000,20,200000,, Hòa Khánh Bắc, Liên Chiểu
+209,1000000,14,,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+210,2700000,30,1000000,Nhà trống, An Khê, Thanh Khê
+211,1200000,20,1000000,, Hòa Cường Bắc, Hải Châu
+212,1500000,30,,, Hòa Cường Nam, Hải Châu
+213,2000000,25,1000000,, Chính Gián, Thanh Khê
+214,1300000,25,1300000,Nhà trống, Thanh Khê Tây, Thanh Khê
+215,1600000,15,1000000,, Hòa Minh, Liên Chiểu
+216,1200000,25,500000,Nội thất đầy đủ, An Khê, Thanh Khê
+217,1800000,25,,, Hòa Khánh Bắc, Liên Chiểu
+218,1700000,29,500000,Nhà trống, Hòa Minh, Liên Chiểu
+219,2700000,42,2000000,Nhà trống, Hòa Xuân, Cẩm Lệ
+220,1400000,14,500000,Nhà trống, Hòa Xuân, Cẩm Lệ
+221,2000000,35,1000000,, Khuê Mỹ, Ngũ Hành Sơn
+222,2000000,15,1000000,Nhà trống, Mân Thái, Sơn Trà
+223,1500000,17,500000,Nhà trống, Khuê Trung, Cẩm Lệ
+224,1500000,15,150000,, Hòa Khánh Nam, Liên Chiểu
+225,1200000,20,,, Hòa Khánh Nam, Liên Chiểu
+226,1300000,20,,Nhà trống, Hòa Thọ Đông, Cẩm Lệ
+227,2300000,21,500000,Nội thất đầy đủ, Thuận Phước, Hải Châu
+228,1300000,22,1000000,, Hòa An, Cẩm Lệ
+229,2500000,26,1000000,Nhà trống, Hòa Thọ Đông, Cẩm Lệ
+230,3000000,45,3000000,, Mân Thái, Sơn Trà
+231,4000000,50,500000,Nội thất đầy đủ, Hòa Minh, Liên Chiểu
+232,2500000,12,500000,, Thạc Gián, Thanh Khê
+233,2900000,27,2000000,Nội thất đầy đủ, Hòa Xuân, Cẩm Lệ
+234,600000,12,200000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+235,2000000,16,1000000,Nội thất đầy đủ, Thanh Bình, Hải Châu
+236,2000000,18,500000,, Khuê Trung, Cẩm Lệ
+237,1500000,15,,Nhà trống, Thạc Gián, Thanh Khê
+238,1500000,25,500000,, Khuê Trung, Cẩm Lệ
+239,2300000,30,2000000,, Hòa Xuân, Cẩm Lệ
+240,2500000,40,,, Thanh Khê Tây, Thanh Khê
+241,1500000,25,500000,, Hòa Khê, Thanh Khê
+242,4500000,100,,Nhà trống, Nại Hiên Đông, Sơn Trà
+243,1500000,20,1500000,Nhà trống, Khuê Mỹ, Ngũ Hành Sơn
+244,150000,15,500,Nội thất đầy đủ, Hòa Khánh Bắc, Liên Chiểu
+245,4200000,50,,Nội thất đầy đủ, Thạch Thang, Hải Châu
+246,2000000,20,,Nội thất đầy đủ, Vĩnh Trung, Thanh Khê
+247,1600000,20,300000,, Mỹ An, Ngũ Hành Sơn
+248,1500000,35,,, Hòa Khánh Nam, Liên Chiểu
+249,2500000,30,,, Hòa Minh, Liên Chiểu
+250,4500000,72,2000000,, Nại Hiên Đông, Sơn Trà
+251,1600000,20,500000,Nội thất đầy đủ, Hoà Quý, Ngũ Hành Sơn
+252,2300000,19,500000,Nhà trống, Thuận Phước, Hải Châu
+253,4000000,40,4000000,Tình trạng nội thất: Nội thất cao cấp, Khuê Mỹ, Ngũ Hành Sơn
+254,2500000,25000,500000,Nhà trống, Thanh Khê Tây, Thanh Khê
+255,5000000,50,5000000,Nhà trống, Hòa Thọ Đông, Cẩm Lệ
+256,1800000,15,1800000,, Hòa Khánh Nam, Liên Chiểu
+257,2000000,20,2000000,Nhà trống, Chính Gián, Thanh Khê
+258,2000000,20,1000000,Nhà trống, Hòa Xuân, Cẩm Lệ
+259,1200000,20,1000000,Nhà trống, Hòa Liên, Hòa Vang
+260,3500000,50,,, Hòa Cường Nam, Hải Châu
+261,1500000,20,500000,Nhà trống, Khuê Mỹ, Ngũ Hành Sơn
+262,2500000,30,1000000,, Hòa Xuân, Cẩm Lệ
+263,1600000,27,1000000,Nhà trống, Chính Gián, Thanh Khê
+264,4500000,25,4500000,, Thuận Phước, Hải Châu
+265,1600000,16,500000,, Hòa Xuân, Cẩm Lệ
+266,2500000,22,,Nhà trống, Hòa Khê, Thanh Khê
+267,800000,3,500000,, Hòa Cường Bắc, Hải Châu
+268,2300000,20,,, Khuê Mỹ, Ngũ Hành Sơn
+269,1500000,20,500000,, Hòa Minh, Liên Chiểu
+270,2500000,25,1000000,Nhà trống, Thanh Khê Đông, Thanh Khê
+271,1500000,20,,, Hòa Thọ Tây, Cẩm Lệ
+272,1500000,15,,Nội thất đầy đủ, Hòa An, Cẩm Lệ
+273,1200000,15,1000000,Nhà trống, Hòa Minh, Liên Chiểu
+274,4300000,28,4300000,Nội thất đầy đủ, Thuận Phước, Hải Châu
+275,850000,20,850000,Nhà trống, Hòa Thọ Tây, Cẩm Lệ
+276,3000000,25,3000000,Nội thất đầy đủ, Khuê Mỹ, Ngũ Hành Sơn
+277,2500000,25,1000000,Nội thất đầy đủ, Khuê Mỹ, Ngũ Hành Sơn
+278,1800000,25,,, Khuê Mỹ, Ngũ Hành Sơn
+279,2500000,50,,Nhà trống, Hoà Hải, Ngũ Hành Sơn
+280,1200000,25,500000,Nội thất đầy đủ, Hòa Thuận Tây, Hải Châu
+281,2000000,25,500000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+282,3000000,40,,Nhà trống, Hải Châu I, Hải Châu
+283,2500000,40,,Nội thất đầy đủ, Hòa Minh, Liên Chiểu
+284,1800000,18,500000,, Chính Gián, Thanh Khê
+285,2000000,15,200000,Nhà trống, Chính Gián, Thanh Khê
+286,3000000,100,500000,, Hoà Quý, Ngũ Hành Sơn
+287,2000000,25,,, Hòa Khánh Bắc, Liên Chiểu
+288,1250000,20,200000,Nhà trống, Hoà Hải, Ngũ Hành Sơn
+289,1800000,30,1800000,Nhà trống, Hòa Xuân, Cẩm Lệ
+290,2500000,20,,Nhà trống, Thanh Bình, Hải Châu
+291,2300000,15,,Nội thất đầy đủ, Tân Chính, Thanh Khê
+292,2000000,20,2000000,Nhà trống, Hòa Cường Bắc, Hải Châu
+293,1500000,20,,Nhà trống, Thanh Khê Tây, Thanh Khê
+294,7000000,25,1,Nội thất đầy đủ, Thanh Khê Tây, Thanh Khê
+295,850000,20,1,, Hòa Thọ Tây, Cẩm Lệ
+296,1900000,25,1000000,Nội thất đầy đủ, Chính Gián, Thanh Khê
+297,1800000,20,1800000,Nhà trống, Hòa Xuân, Cẩm Lệ
+298,800000,200,,, Hòa Thọ Tây, Cẩm Lệ
+299,2700000,30,2700000,Nhà trống, Hòa Minh, Liên Chiểu
+300,1200000,25,,, Hòa Xuân, Cẩm Lệ
+301,1200000,30,500000,, Hòa Minh, Liên Chiểu
+302,1500000,13,,, An Hải Đông, Sơn Trà
+303,1500000,45,500000,, Hoà Quý, Ngũ Hành Sơn
+304,3000000,60,,, Hoà Hải, Ngũ Hành Sơn
+305,2000000,1000,1000000,Tình trạng nội thất: Nội thất cao cấp, Mỹ An, Ngũ Hành Sơn
+306,1300000,12,1000000,, Nam Dương, Hải Châu
+307,600000,15,600000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+308,2000000,20,,Nhà trống, Phước Mỹ, Sơn Trà
+309,250000,40,,Tình trạng nội thất: Nội thất cao cấp, An Hải Đông, Sơn Trà
+310,1650000,15,1000000,Nhà trống, Hòa Thuận Tây, Hải Châu
+311,1400000,20,1400000,Nhà trống, Hòa Minh, Liên Chiểu
+312,2000000,35,600000,Nhà trống, An Khê, Thanh Khê
+313,1200000,20,1000000,Nhà trống, Hòa Minh, Liên Chiểu
+314,40000000,80,,, Mỹ An, Ngũ Hành Sơn
+315,2400000,23,,Nội thất đầy đủ, Hòa Thuận Đông, Hải Châu
+316,800000,15,500000,, Chính Gián, Thanh Khê
+317,1600000,30,500000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+318,2000000,18,,Nội thất đầy đủ, Thuận Phước, Hải Châu
+319,2200000,18,2200000,Nhà trống, Chính Gián, Thanh Khê
+320,900000,16,400000,Nội thất đầy đủ, Mỹ An, Ngũ Hành Sơn
+321,800000,15,800000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+322,1500000,20,1500000,, Hoà Quý, Ngũ Hành Sơn
+323,2800000,30,500000,Nội thất đầy đủ, Hải Châu I, Hải Châu
+324,1100000,16,500000,Nhà trống, Hòa Minh, Liên Chiểu
+325,1000000,22,300000,Nhà trống, Hòa Thọ Tây, Cẩm Lệ
+326,1800000,10,,Nhà trống, Hòa Khê, Thanh Khê
+327,1800000,18,500000,Nhà trống, Vĩnh Trung, Thanh Khê
+328,2000000,12,,, Hòa Thuận Tây, Hải Châu
+329,1200000,11,500000,Tình trạng nội thất: Nội thất cao cấp, Tam Thuận, Thanh Khê
+330,1100000,40,50000,Nội thất đầy đủ, Thuận Phước, Hải Châu
+331,1500000,12,200000,Nhà trống, Tam Thuận, Thanh Khê
+332,2000000,20,,, Hòa Xuân, Cẩm Lệ
+333,1200000,25,1000000,, Hòa Xuân, Cẩm Lệ
+334,1000000,12,,Nhà trống, Hòa Minh, Liên Chiểu
+335,2000000,40,1000,Nhà trống, Chính Gián, Thanh Khê
+336,2000000,30,1500000,Nhà trống, Hòa Khê, Thanh Khê
+337,3500000,30,3500000,, An Khê, Thanh Khê
+338,800000,20,100000,Nhà trống, Hòa Sơn, Hòa Vang
+339,3000000,50,3000000,Nội thất đầy đủ, An Hải Bắc, Sơn Trà
+340,1500000,20,1000000,Nhà trống, An Hải Tây, Sơn Trà
+341,2000000,20,,, Thanh Khê Đông, Thanh Khê
+342,1200000,1,,, Chính Gián, Thanh Khê
+343,2000000,23,,, Thanh Khê Đông, Thanh Khê
+344,2500000,28,,, Hòa Cường Bắc, Hải Châu
+345,1200000,16,,Nội thất đầy đủ, Hòa Khánh Bắc, Liên Chiểu
+346,3100000,37,3100000,Nội thất đầy đủ, Hòa Thọ Đông, Cẩm Lệ
+347,2000000,25,500000,, Hòa Minh, Liên Chiểu
+348,1000000,20,100000,Nhà trống, An Khê, Thanh Khê
+349,1500000,16,,, Hòa Cường Bắc, Hải Châu
+350,2000000,25,2000000,, Thọ Quang, Sơn Trà
+351,1300000,10,,Nhà trống, Thanh Khê Tây, Thanh Khê
+352,1500000,15,500000,Nội thất đầy đủ, Xuân Hà, Thanh Khê
+353,1500000,7,,, Bình Thuận, Hải Châu
+354,1300000,20,,, Hòa Minh, Liên Chiểu
+355,2700000,20,1300000,, An Hải Bắc, Sơn Trà
+356,1600000,20,1600000,, Hòa Cường Bắc, Hải Châu
+357,850000,32,1000000,Tình trạng nội thất: Nội thất cao cấp, Khuê Trung, Cẩm Lệ
+358,1600000,24,1000000,, Nại Hiên Đông, Sơn Trà
+359,5000000,500000,5000000,Nội thất đầy đủ, Hải Châu I, Hải Châu
+360,1500000,20,1500000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+361,2000000,30,,Nhà trống, Hòa Xuân, Cẩm Lệ
+362,600000,40,600000,Nội thất đầy đủ, Hòa Khánh Bắc, Liên Chiểu
+363,3000000,30,3000000,Nội thất đầy đủ, Khuê Mỹ, Ngũ Hành Sơn
+364,1700000,17,500000,Nhà trống, Mỹ An, Ngũ Hành Sơn
+365,1000000,20,50000,, Hòa Thuận Tây, Hải Châu
+366,2200000,20,1500000,Nhà trống, Thuận Phước, Hải Châu
+367,1500000,25,1500000,Nhà trống, Khuê Trung, Cẩm Lệ
+368,2300000,22,,Nhà trống, Khuê Trung, Cẩm Lệ
+369,1300000,25,1300000,Nhà trống, Thanh Khê Tây, Thanh Khê
+370,1000000,25,1000000,, Hòa Cường Nam, Hải Châu
+371,1000000,30,200000,Nội thất đầy đủ, Hòa Khánh Nam, Liên Chiểu
+372,2800000,50,500000,Nhà trống, Hoà Hải, Ngũ Hành Sơn
+373,2000000,27,1000000,Nội thất đầy đủ, Hòa Minh, Liên Chiểu
+374,1500000,30,,, Hoà Hải, Ngũ Hành Sơn
+375,2500000,30,2500000,Tình trạng nội thất: Nội thất cao cấp, Hoà Hải, Ngũ Hành Sơn
+376,1000000,20,,Nhà trống, Thanh Khê Đông, Thanh Khê
+377,2600000,20,,, An Hải Bắc, Sơn Trà
+378,900000,30,123456,Nội thất đầy đủ, Hòa Cường Nam, Hải Châu
+379,1800000,18,,, Khuê Trung, Cẩm Lệ
+380,1100000,20,500000,, Hòa Khánh Bắc, Liên Chiểu
+381,1200000,16,,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+382,1600000,20,,Nhà trống, Hòa Xuân, Cẩm Lệ
+383,1200000,20,500000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+384,3000000,35,3000000,Nhà trống, Hòa Cường Bắc, Hải Châu
+385,2500000,25,2500000,Nội thất đầy đủ, Hòa Cường Bắc, Hải Châu
+386,3500000,25,,, Hòa Cường Bắc, Hải Châu
+387,2930000,80,,Nội thất đầy đủ, Hòa Xuân, Cẩm Lệ
+388,2000000,28,1000000,, Hòa Xuân, Cẩm Lệ
+389,1500000,18,200000,, Bình Thuận, Hải Châu
+390,1200000,28,300000,, Thọ Quang, Sơn Trà
+391,1500000,20,500000,, Hòa Phát, Cẩm Lệ
+392,2700000,25,500000,Nội thất đầy đủ, Hòa Cường Bắc, Hải Châu
+393,1000000,30,1000000,Nội thất đầy đủ, Khuê Mỹ, Ngũ Hành Sơn
+394,1600000,25,500000,, Hòa Phát, Cẩm Lệ
+395,1500000,20,1500000,, Hòa Khánh Bắc, Liên Chiểu
+396,1400000,19,,Nội thất đầy đủ, Hòa Khánh Bắc, Liên Chiểu
+397,1000000,15,,, Hòa An, Cẩm Lệ
+398,3900000,100,1800000,Nhà trống, Hoà Hải, Ngũ Hành Sơn
+399,1000000,20,200000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+400,2500000,120,,, Hòa Xuân, Cẩm Lệ
+401,2000000,15,500000,, Hòa Minh, Liên Chiểu
+402,1700000,18,800000,, Thọ Quang, Sơn Trà
+403,1000000,12,2000000,Nhà trống, Hòa Châu, Hòa Vang
+404,2200000,30,2200000,, Hòa Khánh Nam, Liên Chiểu
+405,1300000,12,,, Khuê Mỹ, Ngũ Hành Sơn
+406,1600000,25,1000000,Nhà trống, Hòa An, Cẩm Lệ
+407,2000000,30,500,, Hoà Quý, Ngũ Hành Sơn
+408,2500000,30,,, Thọ Quang, Sơn Trà
+409,1000000,10,500000,Nhà trống, Bình Thuận, Hải Châu
+410,1500000,16,,Nhà trống, Xuân Hà, Thanh Khê
+411,6000000,84,,, Vĩnh Trung, Thanh Khê
+412,1500000,18,500,, Hòa Khánh Bắc, Liên Chiểu
+413,2800000,40,,Nhà trống, Thanh Khê Tây, Thanh Khê
+414,3000000,30,3000000,Nội thất đầy đủ, Hòa Hiệp Nam, Liên Chiểu
+415,3300000,25,3300000,Tình trạng nội thất: Nội thất cao cấp, An Hải Bắc, Sơn Trà
+416,2000000,18,1000000,Nội thất đầy đủ, An Khê, Thanh Khê
+417,2000000,20,2000000,, Hòa Cường Bắc, Hải Châu
+418,1000000,16,500000,Nội thất đầy đủ, Hoà Hải, Ngũ Hành Sơn
+419,1500000,22,,Nhà trống, Hòa Khê, Thanh Khê
+420,1600000,20,500000,Nhà trống, Mỹ An, Ngũ Hành Sơn
+421,1600000,20,,, Khuê Mỹ, Ngũ Hành Sơn
+422,2000000,40,10,Nhà trống, Thanh Khê Đông, Thanh Khê
+423,1800000,16,,, An Hải Bắc, Sơn Trà
+424,3000000,35,,Nội thất đầy đủ, Hòa An, Cẩm Lệ
+425,2500000,20,,Nhà trống, Hòa Cường Nam, Hải Châu
+426,2200000,30,2200000,, Hòa Khánh Nam, Liên Chiểu
+427,1000000,50,500000,Tình trạng nội thất: Nội thất cao cấp, An Hải Đông, Sơn Trà
+428,1500000,15,,, Hòa An, Cẩm Lệ
+429,1200000,25,,Nội thất đầy đủ, Hòa Phước, Hòa Vang
+430,1100000,22,500000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+431,2000000,25,1000000,, Hòa Khánh Nam, Liên Chiểu
+432,1700000,16,1000000,, Hòa Cường Nam, Hải Châu
+433,600000,15,250,, Hòa An, Cẩm Lệ
+434,1500000,20,,, Hòa Thọ Đông, Cẩm Lệ
+435,1200000,20,1200000,Nhà trống, Hòa Thọ Đông, Cẩm Lệ
+436,1600000,16,,, Hòa Khánh Bắc, Liên Chiểu
+437,1400000,20,,Nhà trống, Hòa Cường Bắc, Hải Châu
+438,1800000,25,1500000,Nội thất đầy đủ, Hoà Hải, Ngũ Hành Sơn
+439,1600000,4,1600000,Nội thất đầy đủ, Phước Ninh, Hải Châu
+440,1500000,20,1500000,Nhà trống, Thanh Khê Tây, Thanh Khê
+441,2800000,40,2800000,, Thanh Khê Tây, Thanh Khê
+442,2500000,45,,Nội thất đầy đủ, Khuê Trung, Cẩm Lệ
+443,2000000,25,,, Khuê Mỹ, Ngũ Hành Sơn
+444,1600000,25,1000000,, Hòa Thọ Đông, Cẩm Lệ
+445,3300000,20,3300000,, Hòa Cường Bắc, Hải Châu
+446,1500000,30,500000,Nhà trống, Hòa Minh, Liên Chiểu
+447,1600000,15,,Nhà trống, Hòa Cường Nam, Hải Châu
+448,3500000,35,1500000,Nội thất đầy đủ, Hòa Cường Nam, Hải Châu
+449,2500000,30,1000000,, Hòa Cường Nam, Hải Châu
+450,1300000,20,500000,, Hòa Minh, Liên Chiểu
+451,1300000,14,500000,, Chính Gián, Thanh Khê
+452,800000,4,500000,, Hòa Cường Bắc, Hải Châu
+453,2500000,22,,, Mỹ An, Ngũ Hành Sơn
+454,5500000,30,2000000,Nội thất đầy đủ, An Hải Bắc, Sơn Trà
+455,1300000,15,500000,Nhà trống, Hoà Hải, Ngũ Hành Sơn
+456,2500000,60,2000000,, Khuê Trung, Cẩm Lệ
+457,3500000,30,2000000,Nội thất đầy đủ, Hòa Cường Nam, Hải Châu
+458,2000000,24,,, Khuê Trung, Cẩm Lệ
+459,2500000,30,200000,, Khuê Trung, Cẩm Lệ
+460,1700000,30,1000000,, Hòa Thọ Đông, Cẩm Lệ
+461,800000,20,,, Thanh Khê Đông, Thanh Khê
+462,4500000,25,4500000,Nội thất đầy đủ, Thuận Phước, Hải Châu
+463,1500000,20,1,Nhà trống, Khuê Trung, Cẩm Lệ
+464,3500000,26,3500000,, Hòa Cường Bắc, Hải Châu
+465,1200000,25,1200000,Nội thất đầy đủ, Hoà Quý, Ngũ Hành Sơn
+466,1800000,18,,, An Hải Bắc, Sơn Trà
+467,3700000,45,3700000,Nội thất đầy đủ, Hoà Hải, Ngũ Hành Sơn
+468,3700000,45,3700000,Nội thất đầy đủ, Hoà Hải, Ngũ Hành Sơn
+469,1800000,16,1800000,, Hòa Khánh Nam, Liên Chiểu
+470,2000000,25,,Nhà trống, Bình Hiên, Hải Châu
+471,800000,15,,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+472,1000000,16,1000000,Nhà trống, Hòa Thọ Đông, Cẩm Lệ
+473,2500000,2133,,, Hòa Thuận Đông, Hải Châu
+474,1500000,25,1000000,Nhà trống, Hoà Hải, Ngũ Hành Sơn
+475,2000000,50,,, Nại Hiên Đông, Sơn Trà
+476,1500000,30,1500000,, Hoà Quý, Ngũ Hành Sơn
+477,2000000,20,1000000,, Mỹ An, Ngũ Hành Sơn
+478,4200000,50,4200000,Tình trạng nội thất: Nội thất cao cấp, Mỹ An, Ngũ Hành Sơn
+479,800000,20,100000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+480,1200000,12,1200000,, Hòa Xuân, Cẩm Lệ
+481,800000,25,200000,Nhà trống, Hòa Thọ Tây, Cẩm Lệ
+482,1000000,12,1,Nội thất đầy đủ, Hòa Khánh Nam, Liên Chiểu
+483,1500000,25,,, Hòa Khánh Bắc, Liên Chiểu
+484,1600000,30,500000,Nhà trống, Hòa An, Cẩm Lệ
+485,1400000,30,500000,Nhà trống, Khuê Mỹ, Ngũ Hành Sơn
+486,2500000,20,,, Khuê Trung, Cẩm Lệ
+487,2500000,22,2500000,Nội thất đầy đủ, Hoà Hải, Ngũ Hành Sơn
+488,3000000,40,500000,Nội thất đầy đủ, Hòa Xuân, Cẩm Lệ
+489,1000000,30,500000,Nhà trống, Thanh Khê Đông, Thanh Khê
+490,1700000,20,300000,Nhà trống, Mỹ An, Ngũ Hành Sơn
+491,2000000,12,,, Hòa Thuận Tây, Hải Châu
+492,1200000,20,,Nhà trống, Hoà Hải, Ngũ Hành Sơn
+493,1600000,16,1000000,, Hoà Hải, Ngũ Hành Sơn
+494,800000,10,50000,Nội thất đầy đủ, Hòa Thọ Tây, Cẩm Lệ
+495,1300000,20,500000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+496,1600000,18,1000000,Nội thất đầy đủ, Hòa Minh, Liên Chiểu
+497,2500000,50,,Nhà trống, Xuân Hà, Thanh Khê
+498,4000000,80,,, An Hải Bắc, Sơn Trà
+499,2500000,20,2500000,Nhà trống, Xuân Hà, Thanh Khê
+500,1500000,13,500000,Nhà trống, Phước Ninh, Hải Châu
+501,4000000,50,4000000,, Khuê Mỹ, Ngũ Hành Sơn
+502,1000000,20,500000,Nhà trống, Hoà Hải, Ngũ Hành Sơn
+503,1200000,30,500000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+504,2600000,30,2600000,Nội thất đầy đủ, Bình Hiên, Hải Châu
+505,3100000,22,3000000,Nội thất đầy đủ, Thạc Gián, Thanh Khê
+506,2500000,30,,Nhà trống, Thanh Khê Tây, Thanh Khê
+507,1800000,25,1000000,Nội thất đầy đủ, An Khê, Thanh Khê
+508,2000000,25,2000000,Nội thất đầy đủ, Mân Thái, Sơn Trà
+509,3500000,30,,Nội thất đầy đủ, Hòa Cường Bắc, Hải Châu
+510,1200000,25,,, Hòa Khánh Bắc, Liên Chiểu
+511,3500000,25,3500000,, Chính Gián, Thanh Khê
+512,1500000,22,,, Mỹ An, Ngũ Hành Sơn
+513,1400000,18,500000,, Hòa An, Cẩm Lệ
+514,1400000,16,1400000,, Nam Dương, Hải Châu
+515,2000000,30,,Nhà trống, Hòa Xuân, Cẩm Lệ
+516,1200000,15,1,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+517,4000000,120,4000000,Nhà trống, Hoà Quý, Ngũ Hành Sơn
+518,1300000,16,,Nội thất đầy đủ, An Khê, Thanh Khê
+519,1500000,15,200000,Nhà trống, Hòa Cường Nam, Hải Châu
+520,4300000,30,,, An Hải Bắc, Sơn Trà
+521,800000,16,200000,, Hòa Khánh Bắc, Liên Chiểu
+522,2800000,35,2800000,Nội thất đầy đủ, Hòa Khánh Nam, Liên Chiểu
+523,2000000,25,1000000,Nội thất đầy đủ, Hòa Xuân, Cẩm Lệ
+524,3000000,30,3000000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+525,1000000,19,,Nội thất đầy đủ, Hòa Khánh Bắc, Liên Chiểu
+526,1000000,30,500000,Nhà trống, Hòa Tiến, Hòa Vang
+527,1300000,15,,Nội thất đầy đủ, An Khê, Thanh Khê
+528,2000000,30,,Nhà trống, Hoà Quý, Ngũ Hành Sơn
+529,900000,30,,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+530,1000000,25,50000,, Hòa Thuận Tây, Hải Châu
+531,2500000,25,500000,Nhà trống, Vĩnh Trung, Thanh Khê
+532,800000,11,,, Mỹ An, Ngũ Hành Sơn
+533,1900000,45,,Nhà trống, Hòa Minh, Liên Chiểu
+534,1200000,20,,Nhà trống, Khuê Mỹ, Ngũ Hành Sơn
+535,2000000,12,,, Hòa Thuận Tây, Hải Châu
+536,1800000,25,,Nhà trống, Thanh Khê Tây, Thanh Khê
+537,2400000,20,,, Thanh Bình, Hải Châu
+538,3000000,30,,Nhà trống, Hòa Xuân, Cẩm Lệ
+539,1500000,15,1000000,, Hòa Cường Nam, Hải Châu
+540,1600000,20,,Nội thất đầy đủ, Thuận Phước, Hải Châu
+541,1400000,20,,, Hòa Khánh Bắc, Liên Chiểu
+542,1400000,15,500000,, Hoà Quý, Ngũ Hành Sơn
+543,1500000,30,,, Hòa Thọ Tây, Cẩm Lệ
+544,1500000,20,700000,Nhà trống, Hòa Minh, Liên Chiểu
+545,1200000,25,1000000,Nội thất đầy đủ, Hoà Quý, Ngũ Hành Sơn
+546,900000,20,,Nhà trống, Hòa Thọ Đông, Cẩm Lệ
+547,1800000,20,1800000,, Hòa Cường Nam, Hải Châu
+548,2000000,12,1000000,Nội thất đầy đủ, Thanh Bình, Hải Châu
+549,2000000,22,,Nhà trống, Hòa Cường Nam, Hải Châu
+550,1500000,20,1500000,, Hòa Xuân, Cẩm Lệ
+551,1500000,20,1000000,Nhà trống, Mỹ An, Ngũ Hành Sơn
+552,5500000,100,,, Hòa Minh, Liên Chiểu
+553,1000000,20,,, Hòa Hiệp Nam, Liên Chiểu
+554,2300000,28,250000,Nội thất đầy đủ, Hòa Minh, Liên Chiểu
+555,1600000,16,,, Hòa Xuân, Cẩm Lệ
+556,2200000,30,,Nhà trống, Hòa Xuân, Cẩm Lệ
+557,1800000,30,500000,, Hòa Minh, Liên Chiểu
+558,2000000,28,1000000,, Hòa Minh, Liên Chiểu
+559,3500000,40,,, Khuê Mỹ, Ngũ Hành Sơn
+560,1400000,18,500000,, An Khê, Thanh Khê
+561,1500000,30,1000000,Nhà trống, An Khê, Thanh Khê
+562,2300000,33,200,Nội thất đầy đủ, Hoà Quý, Ngũ Hành Sơn
+563,1500000,25,100000,Nhà trống, Vĩnh Trung, Thanh Khê
+564,1400000,18,500000,Nhà trống, Hòa Hiệp Nam, Liên Chiểu
+565,1000000,20,,, Bình Thuận, Hải Châu
+566,2000000,20,500000,Nội thất đầy đủ, Mân Thái, Sơn Trà
+567,1000000,30,500000,Nhà trống, Hoà Hải, Ngũ Hành Sơn
+568,1500000,16,1000000,Nhà trống, Khuê Trung, Cẩm Lệ
+569,900000,12,500000,, Thanh Bình, Hải Châu
+570,2000000,25,2000000,Nhà trống, Thạc Gián, Thanh Khê
+571,500000,17,,, Tân Chính, Thanh Khê
+572,2000000,20,500000,Nhà trống, Hòa Xuân, Cẩm Lệ
+573,2500000,30,200000,, Tam Thuận, Thanh Khê
+574,1700000,25,1000000,Nhà trống, Thọ Quang, Sơn Trà
+575,2500000,25,2500000,, Hòa Khê, Thanh Khê
+576,1400000,20,,, Thanh Khê Đông, Thanh Khê
+577,1500000,15,500000,Nhà trống, Hòa Minh, Liên Chiểu
+578,1300000,25,1300000,Nội thất đầy đủ, Khuê Mỹ, Ngũ Hành Sơn
+579,800000,16,200000,Nội thất đầy đủ, Hoà Hải, Ngũ Hành Sơn
+580,1600000,35,1000000,Nội thất đầy đủ, Hòa Minh, Liên Chiểu
+581,2500000,25,1000000,Nội thất đầy đủ, Hòa Xuân, Cẩm Lệ
+582,1500000,14,500000,, Tam Thuận, Thanh Khê
+583,1200000,20,1200000,Nhà trống, Hoà Hải, Ngũ Hành Sơn
+584,2500000,20,2500000,Tình trạng nội thất: Nội thất cao cấp, Chính Gián, Thanh Khê
+585,1800000,20,1800000,, Mân Thái, Sơn Trà
+586,1500000,15,,Nội thất đầy đủ, An Khê, Thanh Khê
+587,1700000,105,3400000,Nhà trống, An Hải Đông, Sơn Trà
+588,1300000,25,1000000,, Khuê Trung, Cẩm Lệ
+589,2000000,20,,, Hòa Cường Nam, Hải Châu
+590,400000,125,20000000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+591,1700000,25,1700000,, Hòa An, Cẩm Lệ
+592,1500000,15,1500000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+593,1500000,16,1000000,, An Hải Tây, Sơn Trà
+594,1500000,25,,Nhà trống, Hòa Thọ Đông, Cẩm Lệ
+595,2500000,30,1,, Hòa Cường Nam, Hải Châu
+596,1400000,15,,Nhà trống, Hòa An, Cẩm Lệ
+597,1500000,30,,, Hòa Khánh Bắc, Liên Chiểu
+598,1700000,28,1000000,, Hòa Minh, Liên Chiểu
+599,1200000,25,,Nhà trống, Hòa An, Cẩm Lệ
+600,2000000,25,1000000,, Thọ Quang, Sơn Trà
+601,4000000,120,4000000,Nhà trống, Hoà Quý, Ngũ Hành Sơn
+602,1500000,17,300000,Nhà trống, Hòa Thuận Đông, Hải Châu
+603,3000000,25,3000000,Nội thất đầy đủ, Phước Mỹ, Sơn Trà
+604,1500000,18,500000,, Hòa Khánh Bắc, Liên Chiểu
+605,1500000,15,500000,Nội thất đầy đủ, Khuê Trung, Cẩm Lệ
+606,1200000,25,,, Hòa Khánh Bắc, Liên Chiểu
+607,2000000,15,1000000,Nhà trống, Thạc Gián, Thanh Khê
+608,1200000,18,500000,Nội thất đầy đủ, Thạch Thang, Hải Châu
+609,2500000,25,2500000,, Khuê Trung, Cẩm Lệ
+610,1800000,30,2000000,Nhà trống, An Khê, Thanh Khê
+611,2500000,35,2500000,, Vĩnh Trung, Thanh Khê
+612,2200000,24,,, Hòa Khánh Nam, Liên Chiểu
+613,2500000,25,,, Khuê Trung, Cẩm Lệ
+614,1600000,32,1600000,, Hòa Khánh Nam, Liên Chiểu
+615,3000000,25,3000000,, Vĩnh Trung, Thanh Khê
+616,2000000,15,,, Hòa Thuận Tây, Hải Châu
+617,1400000,18,1000000,Nhà trống, Hòa Minh, Liên Chiểu
+618,1200000,25,,, Phước Thành, Cẩm Lệ
+619,2600000,35,1000000,, Hòa Minh, Liên Chiểu
+620,1300000,14,1300000,, Hòa Xuân, Cẩm Lệ
+621,1800000,24,1,Nhà trống, Hòa Châu, Hòa Vang
+622,1500000,20,1000000,, Hòa Minh, Liên Chiểu
+623,1700000,20,1700000,Nhà trống, Thạc Gián, Thanh Khê
+624,1900000,20,5000,Nội thất đầy đủ, Hòa Thuận Tây, Hải Châu
+625,1200000,9,1200000,, Hòa An, Cẩm Lệ
+626,2500000,18,,Nội thất đầy đủ, Thuận Phước, Hải Châu
+627,1800000,15,500000,Nội thất đầy đủ, Hòa Khánh Nam, Liên Chiểu
+628,1500000,25,1500000,Nội thất đầy đủ, Hòa Khánh Bắc, Liên Chiểu
+629,1600000,20,500000,Nhà trống, Hoà Quý, Ngũ Hành Sơn
+630,2000000,25,,Nhà trống, Hòa Khê, Thanh Khê
+631,3000000,208,100000,, Hòa Khánh Nam, Liên Chiểu
+632,900000,12,500,, Hòa Thọ Đông, Cẩm Lệ
+633,5500000,50,,Nội thất đầy đủ, Hòa Thuận Đông, Hải Châu
+634,1500000,20,1500000,, Hòa Thuận Tây, Hải Châu
+635,2800000,25,,, Thanh Bình, Hải Châu
+636,1200000,27,1500000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+637,1500000,20,100000,, Thanh Khê Đông, Thanh Khê
+638,1200000,26,,, Hòa Phước, Hòa Vang
+639,1300000,15,1300000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+640,1500000,15,1500000,, Hòa Thuận Đông, Hải Châu
+641,1500000,15,200000,Nhà trống, Hòa Cường Nam, Hải Châu
+642,1800000,15,1000000,, Hòa Minh, Liên Chiểu
+643,2900000,3,100000,, Hòa Cường Nam, Hải Châu
+644,2000000,32,,, An Hải Bắc, Sơn Trà
+645,3500000,60,3000000,Nhà trống, Hòa Phát, Cẩm Lệ
+646,1800000,20,500000,, Hoà Hải, Ngũ Hành Sơn
+647,2500000,27,2000000,Nội thất đầy đủ, Tam Thuận, Thanh Khê
+648,1800000,26,500000,Nhà trống, Hòa Xuân, Cẩm Lệ
+649,1400000,26,,, Hòa Thọ Đông, Cẩm Lệ
+650,1800000,26,500000,Nhà trống, Hòa Xuân, Cẩm Lệ
+651,6600000,48,6600000,Nội thất đầy đủ, Mỹ An, Ngũ Hành Sơn
+652,4000000,40,4000000,Nội thất đầy đủ, Mỹ An, Ngũ Hành Sơn
+653,4000000,35,4000000,Nội thất đầy đủ, Mỹ An, Ngũ Hành Sơn
+654,2000000,22,500000,Nhà trống, Hòa An, Cẩm Lệ
+655,1700000,30,1000000,Nhà trống, Hòa Minh, Liên Chiểu
+656,4500000,30,100000,Nội thất đầy đủ, Hoà Quý, Ngũ Hành Sơn
+657,1300000,13,500000,Nhà trống, Hòa Minh, Liên Chiểu
+658,2000000,35,,Nhà trống, Thọ Quang, Sơn Trà
+659,2800000,35,2800000,Nội thất đầy đủ, An Hải Đông, Sơn Trà
+660,1200000,25,,, Hòa Xuân, Cẩm Lệ
+661,800000,22,800000,, Hòa Khánh Bắc, Liên Chiểu
+662,2000000,25,500000,, Hòa Minh, Liên Chiểu
+663,2700000,45,,, Thạch Thang, Hải Châu
+664,5000000,30,3000000,Nội thất đầy đủ, Phước Ninh, Hải Châu
+665,1500000,20,,, Hòa Khánh Bắc, Liên Chiểu
+666,1500000,20,500000,Nội thất đầy đủ, Hoà Hải, Ngũ Hành Sơn
+667,2500000,26,1000000,Nhà trống, Hòa Thuận Đông, Hải Châu
+668,1200000,20,,, Hòa Xuân, Cẩm Lệ
+669,850000,15,100,Nhà trống, Hòa Minh, Liên Chiểu
+670,1700000,13,300000,Nhà trống, Thạch Thang, Hải Châu
+671,1500000,26,500000,, Hòa Hiệp Nam, Liên Chiểu
+672,1300000,20,500000,Nhà trống, Hòa Phát, Cẩm Lệ
+673,1500000,15,,Nội thất đầy đủ, Thanh Bình, Hải Châu
+674,2000000,30,,, Hoà Quý, Ngũ Hành Sơn
+675,1500000,25,,Nhà trống, Hòa Thọ Đông, Cẩm Lệ
+676,2000000,20,1000000,Nhà trống, Khuê Trung, Cẩm Lệ
+677,1500000,50,1000000,Nội thất đầy đủ, An Hải Bắc, Sơn Trà
+678,2500000,20,,, Mỹ An, Ngũ Hành Sơn
+679,1200000,25,,Nhà trống, Hòa Xuân, Cẩm Lệ
+680,5500000,100,5500000,Nội thất đầy đủ, Hoà Hải, Ngũ Hành Sơn
+681,1500000,25,,, Hòa Minh, Liên Chiểu
+682,1500000,30,1000000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+683,3200000,20,3200000,Nội thất đầy đủ, An Khê, Thanh Khê
+684,2000000,25,,Nhà trống, Hòa Xuân, Cẩm Lệ
+685,100000,25,500000,Nhà trống, Hòa Xuân, Cẩm Lệ
+686,80000000,90,10000000,Nội thất đầy đủ, Hòa Khánh Nam, Liên Chiểu
+687,1500000,15,1000000,, Hòa Cường Nam, Hải Châu
+688,2000000,12,,Nhà trống, Thạc Gián, Thanh Khê
+689,1500000,16,1000000,Nội thất đầy đủ, Hòa Khánh Bắc, Liên Chiểu
+690,1800000,20,1000000,Nhà trống, Thanh Bình, Hải Châu
+691,3000000,65,3000000,Nội thất đầy đủ, An Hải Bắc, Sơn Trà
+692,1800000,15,1000000,Nhà trống, Hòa Hiệp Bắc, Liên Chiểu
+693,3000000,100000,,Nhà trống, Hòa Khánh Nam, Liên Chiểu
+694,1200000,15,,, Vĩnh Trung, Thanh Khê
+695,1400000,20,1400000,Nhà trống, Hòa Minh, Liên Chiểu
+696,1600000,20,,, Thạc Gián, Thanh Khê
+697,1600000,20,1600000,Nội thất đầy đủ, Hòa Xuân, Cẩm Lệ
+698,1500000,20,500000,Nhà trống, An Hải Bắc, Sơn Trà
+699,2700000,34,2700000,Nhà trống, Hòa Cường Nam, Hải Châu
+700,1200000,20,500000,Nhà trống, Hoà Quý, Ngũ Hành Sơn
+701,2200000,50,,, Hòa An, Cẩm Lệ
+702,5000000,50,5500000,, Hòa Cường Bắc, Hải Châu
+703,1600000,29,500000,Nhà trống, Hòa Minh, Liên Chiểu
+704,2000000,20,2000000,, Thạc Gián, Thanh Khê
+705,1000000,15,500000,, Thanh Bình, Hải Châu
+706,1300000,30,,Nội thất đầy đủ, Hòa Khánh Bắc, Liên Chiểu
+707,1000000,3,1000000,Tình trạng nội thất: Nội thất cao cấp, Hòa Cường Bắc, Hải Châu
+708,2000000,15,500,Nội thất đầy đủ, Hòa Cường Nam, Hải Châu
+709,2300000,25,,Nội thất đầy đủ, Hòa Thọ Đông, Cẩm Lệ
+710,1500000,20,1500000,Nội thất đầy đủ, Khuê Trung, Cẩm Lệ
+711,2000000,20,,Nhà trống, Vĩnh Trung, Thanh Khê
+712,2000000,20,,Nhà trống, Khuê Mỹ, Ngũ Hành Sơn
+713,1700000,30,500000,, Hòa Minh, Liên Chiểu
+714,1900000,28,500000,Nội thất đầy đủ, Thanh Khê Đông, Thanh Khê
+715,800000,12,,, Hòa Nhơn, Hòa Vang
+716,1000000,25,1000000,Nội thất đầy đủ, An Hải Bắc, Sơn Trà
+717,1500000,18,1000000,Nhà trống, Vĩnh Trung, Thanh Khê
+718,2700000,24,,, Hòa Thuận Tây, Hải Châu
+719,6000000,55,1000000,Nội thất đầy đủ, Thạch Thang, Hải Châu
+720,1300000,18,,, Hòa Thuận Tây, Hải Châu
+721,1500000,12,300000,Nhà trống, Hòa Thuận Đông, Hải Châu
+722,2000000,38,,Nội thất đầy đủ, Hòa Xuân, Cẩm Lệ
+723,1800000,18,500000,, Tân Chính, Thanh Khê
+724,700000,15,300,, Hòa Khánh Bắc, Liên Chiểu
+725,1800000,20,1000000,, Tân Chính, Thanh Khê
+726,1850000,20,200000,Nhà trống, Vĩnh Trung, Thanh Khê
+727,3000000,48,,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+728,2500000,50,,Nội thất đầy đủ, Khuê Mỹ, Ngũ Hành Sơn
+729,1300000,20,1300000,, Hòa An, Cẩm Lệ
+730,800000,20,500000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
+731,2200000,30,,, Hải Châu II, Hải Châu
+732,1200000,15,,, An Hải Bắc, Sơn Trà
+733,1000000,25,,, Thanh Khê Đông, Thanh Khê
+734,2000000,25,2000000,, Khuê Trung, Cẩm Lệ
+735,1500000,25,500000,, Thạch Thang, Hải Châu
+736,2500000,20,2500000,Nội thất đầy đủ, Hoà Hải, Ngũ Hành Sơn
+737,800000,18,800000,, Hòa Thọ Tây, Cẩm Lệ
+738,1500000,30,500000,Nhà trống, An Khê, Thanh Khê
+739,3000000,25,1000000,Nội thất đầy đủ, Phước Mỹ, Sơn Trà
+740,700000,32,1000000,Nội thất đầy đủ, Khuê Trung, Cẩm Lệ
+741,1000000,22,300000,Nhà trống, Hòa Thọ Tây, Cẩm Lệ
+742,1500000,20,500000,Nhà trống, Hòa Phát, Cẩm Lệ
+743,1800000,25,1800000,, Hòa An, Cẩm Lệ
+744,1700000,28,,Nội thất đầy đủ, Hải Châu II, Hải Châu
+745,1300000,20,,Nhà trống, Hòa An, Cẩm Lệ
