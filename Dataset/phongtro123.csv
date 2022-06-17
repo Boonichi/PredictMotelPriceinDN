@@ -1,0 +1,909 @@
+,Price,Area,Ward,District
+0,1300000,20, Hòa Minh, Liên Chiểu
+1,3000000,25, Nại Hiên Đông, Sơn Trà
+2,1500000,15, Hòa Khê, Thanh Khê
+3,2600000,30, An Hải Bắc, Sơn Trà
+4,3200000,40, Hòa Khánh Nam, Liên Chiểu
+5,1700000,25, Hòa Khê, Thanh Khê
+6,2200000,30, An Hải Tây, Sơn Trà
+7,1500000,18, Mỹ An, Ngũ Hành Sơn
+8,1500000,20, Hòa Hải, Ngũ Hành Sơn
+9,2000000,25, Khuê Mỹ, Ngũ Hành Sơn
+10,1700000,18, Hòa Thuận Tây, Hải Châu
+11,2000000,12, Tam Thuận, Thanh Khê
+12,1800000,23, Hòa Thuận Tây, Hải Châu
+13,3000000,50, Hòa Hải, Ngũ Hành Sơn
+14,2500000,50, Hòa Cường Bắc, Hải Châu
+15,1800000,25, Khuê Trung, Cẩm Lệ
+16,1800000,25, Hòa Khánh Bắc, Liên Chiểu
+17,2500000,40, Thanh Khê Tây, Thanh Khê
+18,1800000,35, Thanh Bình, Hải Châu
+19,2500000,30, Hòa Xuân, Cẩm Lệ
+20,1500000,18, Bình Thuận, Hải Châu
+21,1700000,20, Hòa Thọ Đông, Cẩm Lệ
+22,1400000,16, Nam Dương, Hải Châu
+23,1800000,20, Hòa Cường Nam, Hải Châu
+24,1000000,70, Hòa Thọ Đông, Cẩm Lệ
+25,1200000,15, Khuê Trung, Cẩm Lệ
+26,1000000,20, Thọ Quang, Sơn Trà
+27,2700000,20, Phước Mỹ, Sơn Trà
+28,3000000,250, Hòa Cường Nam, Hải Châu
+29,2500000,15, Hòa Cường Bắc, Hải Châu
+30,1200000,18, An Hải Bắc, Sơn Trà
+31,4500000,35, Hòa Cường Bắc, Hải Châu
+32,2700000,24, Hòa Thuận Tây, Hải Châu
+33,1500000,16, Thanh Bình, Hải Châu
+34,2000000,30, Hòa Cường Nam, Hải Châu
+35,700000,20, Hòa Hiệp Nam, Liên Chiểu
+36,900000,18, Hòa Minh, Liên Chiểu
+37,5000000,42, Mỹ An, Ngũ Hành Sơn
+38,1400000,16, Nam Dương, Hải Châu
+39,3000000,30, Hòa Cường Nam, Hải Châu
+40,1600000,15, Khuê Trung, Cẩm Lệ
+41,2500000,25, Hòa Thuận Tây, Hải Châu
+42,1000000,16, An Hải Đông, Sơn Trà
+43,1100000,20, Hòa Minh, Liên Chiểu
+44,2200000,30, Hòa Thọ Đông, Cẩm Lệ
+45,800000,15, Hòa Hiệp Nam, Liên Chiểu
+46,2000000,20, Mỹ An, Ngũ Hành Sơn
+47,3000000,30, Hòa Cường Nam, Hải Châu
+48,1500000,18, Thuận Phước, Hải Châu
+49,1500000,30, Thanh Khê Đông, Thanh Khê
+50,1200000,16, An Hải Bắc, Sơn Trà
+51,2000000,40, An Hải Bắc, Sơn Trà
+52,1500000,22, Hòa An, Cẩm Lệ
+53,900000,30, Chính Gián, Thanh Khê
+54,,30, Hòa Cường Nam, Hải Châu
+55,2000000,30, Hòa Xuân, Cẩm Lệ
+56,2000000,60, Chính Gián, Thanh Khê
+57,1000000,18, Thọ Quang, Sơn Trà
+58,2000000,40, An Hải Bắc, Sơn Trà
+59,1000000,20, Khuê Mỹ, Ngũ Hành Sơn
+60,3000000,30, Thanh Bình, Hải Châu
+61,1000000,15, Hòa Hải, Ngũ Hành Sơn
+62,1500000,14, Phước Ninh, Hải Châu
+63,1200000,15, Hòa Khánh Nam, Liên Chiểu
+64,2200000,19, Bình Hiên, Hải Châu
+65,1400000,20, Hòa Minh, Liên Chiểu
+66,2500000,25, Hòa Cường Bắc, Hải Châu
+67,1600000,24, Hòa Quý, Ngũ Hành Sơn
+68,1000000,16, Hòa An, Cẩm Lệ
+69,1700000,22, Hòa An, Cẩm Lệ
+70,2000000,12, Tân Chính, Thanh Khê
+71,1200000,30, Hòa Cường Nam, Hải Châu
+72,3500000,30, Hòa Thuận Đông, Hải Châu
+73,1800000,350, Hòa Cường Nam, Hải Châu
+74,1300000,15, Khuê Trung, Cẩm Lệ
+75,2000000,15, Hòa Cường Nam, Hải Châu
+76,1800000,18, Hòa Thuận Tây, Hải Châu
+77,1300000,30, Hòa Khê, Thanh Khê
+78,1600000,15, Hòa Cường Nam, Hải Châu
+79,1700000,16, Hòa Cường Nam, Hải Châu
+80,2000000,20, Hòa Cường Bắc, Hải Châu
+81,1800000,36, Hòa Cường Bắc, Hải Châu
+82,1700000,25, Hòa Phát, Cẩm Lệ
+83,2200000,15, Thanh Bình, Hải Châu
+84,1200000,30, Hòa Cường Nam, Hải Châu
+85,2000000,50, Hòa Minh, Liên Chiểu
+86,1600000,15, Hòa Minh, Liên Chiểu
+87,1500000,20, Hòa Khánh Nam, Liên Chiểu
+88,1500000,15, Tam Thuận, Thanh Khê
+89,1200000,12, Thạc Gián, Thanh Khê
+90,2000000,20, An Khê, Thanh Khê
+91,2500000,35, Khuê Mỹ, Ngũ Hành Sơn
+92,1200000,24, Hòa Quý, Ngũ Hành Sơn
+93,1450000,25, Hòa Quý, Ngũ Hành Sơn
+94,1500000,20, Xuân Hà, Thanh Khê
+95,1500000,20, Hòa Cường Nam, Hải Châu
+96,1500000,25, Hòa Thọ Đông, Cẩm Lệ
+97,1900000,20, Hòa Minh, Liên Chiểu
+98,2300000,20, Hòa Cường Bắc, Hải Châu
+99,2000000,16, Khuê Trung, Cẩm Lệ
+100,1000000,15, Hòa Cường Nam, Hải Châu
+101,1800000,15, Hòa Minh, Liên Chiểu
+102,1500000,25, Hòa Thọ Đông, Cẩm Lệ
+103,2200000,20, Thanh Bình, Hải Châu
+104,2000000,25, Hòa Cường Nam, Hải Châu
+105,1500000,20, Hòa Khánh Bắc, Liên Chiểu
+106,1000000,13, Hòa Cường Nam, Hải Châu
+107,3000000,30, Hòa Cường Nam, Hải Châu
+108,1500000,20, Khuê Mỹ, Ngũ Hành Sơn
+109,1500000,16, Hòa Hải, Ngũ Hành Sơn
+110,2000000,25, Tam Thuận, Thanh Khê
+111,2500000,25, Hòa Thuận Tây, Hải Châu
+112,2000000,20, Hòa Minh, Liên Chiểu
+113,1000000,25, Hòa Minh, Liên Chiểu
+114,2500000,30,, Ngũ Hành Sơn
+115,3000000,30, Hòa Khê, Thanh Khê
+116,1800000,35, Hòa Minh, Liên Chiểu
+117,1200000,25, Vĩnh Trung, Thanh Khê
+118,2000000,18, Khuê Trung, Cẩm Lệ
+119,1800000,35, Hòa Minh, Liên Chiểu
+120,1900000,35, Hòa Minh, Liên Chiểu
+121,2000000,40, Thanh Khê Đông, Thanh Khê
+122,1500000,20, Bình Thuận, Hải Châu
+123,1200000,15, Hòa Minh, Liên Chiểu
+124,4500000,45, Mỹ An, Ngũ Hành Sơn
+125,4500000,45, Mỹ An, Ngũ Hành Sơn
+126,,0,, Thanh Khê
+127,1700000,15, Hòa Khánh Nam, Liên Chiểu
+128,1200000,20, Hòa Thọ Đông, Cẩm Lệ
+129,3500000,25, An Khê, Thanh Khê
+130,2000000,40, Hòa Cường Nam, Hải Châu
+131,1600000,20, Thanh Khê Tây, Thanh Khê
+132,2000000,20, Hòa Xuân, Cẩm Lệ
+133,2400000,24, Hòa An, Cẩm Lệ
+134,3100000,30, Khuê Trung, Cẩm Lệ
+135,2700000,25, Khuê Trung, Cẩm Lệ
+136,2000000,120, Hòa Xuân, Cẩm Lệ
+137,2500000,22, An Khê, Thanh Khê
+138,1500000,12, Thuận Phước, Hải Châu
+139,1800000,20, Phước Mỹ, Sơn Trà
+140,3500000,125, Hòa Hiệp Bắc, Liên Chiểu
+141,1500000,20, Hòa Hải, Ngũ Hành Sơn
+142,2500000,18, Hòa Thuận Tây, Hải Châu
+143,2200000,20, Hòa Minh, Liên Chiểu
+144,4500000,30, Hòa Minh, Liên Chiểu
+145,600000,12,, Thanh Khê
+146,2400000,24, Hòa An, Cẩm Lệ
+147,2000000,25, An Khê, Thanh Khê
+148,2500000,20, Thanh Khê Đông, Thanh Khê
+149,1500000,25, Chính Gián, Thanh Khê
+150,2500000,32,, Hải Châu
+151,2300000,23, Hòa Thuận Tây, Hải Châu
+152,1500000,20, Hòa Thọ Đông, Cẩm Lệ
+153,990000,30, An Hải Đông, Sơn Trà
+154,3000000,35, Khuê Mỹ, Ngũ Hành Sơn
+155,2000000,20, An Khê, Thanh Khê
+156,2500000,25, Thuận Phước, Hải Châu
+157,2500000,25, Hòa Thuận Đông, Hải Châu
+158,1300000,20, Hòa Xuân, Cẩm Lệ
+159,3700000,45, Khuê Mỹ, Ngũ Hành Sơn
+160,1700000,18, Hòa Xuân, Cẩm Lệ
+161,3700000,45, Khuê Mỹ, Ngũ Hành Sơn
+162,2000000,30, Hòa Xuân, Cẩm Lệ
+163,1500000,20, Xuân Hà, Thanh Khê
+164,2500000,30, Hòa Cường Nam, Hải Châu
+165,1500000,30, Hòa Khê, Thanh Khê
+166,2500000,30, Hòa Xuân, Cẩm Lệ
+167,1500000,15, Tam Thuận, Thanh Khê
+168,2000000,25, An Hải Bắc, Sơn Trà
+169,2000000,25, Tam Thuận, Thanh Khê
+170,1500000,20, Hòa Thọ Tây, Cẩm Lệ
+171,3000000,50, Khuê Trung, Cẩm Lệ
+172,1100000,22, Hòa Khánh Bắc, Liên Chiểu
+173,3000000,30, Bình Thuận, Hải Châu
+174,2200000,25, Khuê Trung, Cẩm Lệ
+175,2200000,35, Hòa An, Cẩm Lệ
+176,1000000,16, Thanh Khê Tây, Thanh Khê
+177,2000000,25, Hòa Xuân, Cẩm Lệ
+178,1500000,15, Khuê Trung, Cẩm Lệ
+179,1000000,22, Hòa Thọ Tây, Cẩm Lệ
+180,1900000,15,, Thanh Khê
+181,1200000,20, Hòa Minh, Liên Chiểu
+182,1700000,20, Nam Dương, Hải Châu
+183,3000000,30, Hòa Cường Bắc, Hải Châu
+184,3800000,30, Hòa Thuận Đông, Hải Châu
+185,2500000,20, Hòa Cường Nam, Hải Châu
+186,1600000,20, Hòa Khánh Nam, Liên Chiểu
+187,1800000,23, Khuê Trung, Cẩm Lệ
+188,1800000,16, Hòa Khánh Nam, Liên Chiểu
+189,2000000,20, Hòa Thuận Tây, Hải Châu
+190,3800000,70, Khuê Trung, Cẩm Lệ
+191,1100000,25, Khuê Mỹ, Ngũ Hành Sơn
+192,1200000,13, Xuân Hà, Thanh Khê
+193,1200000,18,, Hải Châu
+194,1000000,25, Hòa Thọ Tây, Cẩm Lệ
+195,2500000,25, Hòa Phát, Cẩm Lệ
+196,2000000,30, Hòa Khánh Nam, Liên Chiểu
+197,2500000,25, Hòa Cường Nam, Hải Châu
+198,2000000,30, Hòa Hải, Ngũ Hành Sơn
+199,2000000,18, Hòa Khê, Thanh Khê
+200,1400000,16, Thạc Gián, Thanh Khê
+201,1200000,9, Xuân Hà, Thanh Khê
+202,2500000,20, Phước Mỹ, Sơn Trà
+203,2400000,15, Hòa Minh, Liên Chiểu
+204,2500000,30,, Hải Châu
+205,2500000,25, Thanh Bình, Hải Châu
+206,2200000,25, Khuê Mỹ, Ngũ Hành Sơn
+207,,18, Hòa Cường Bắc, Hải Châu
+208,1000000,20, Hòa Hải, Ngũ Hành Sơn
+209,2500000,30, Hòa Xuân, Cẩm Lệ
+210,2200000,25,, Thanh Khê
+211,2000000,25, Hòa Minh, Liên Chiểu
+212,3500000,25, Hòa Cường Bắc, Hải Châu
+213,3000000,20, Hòa Cường Bắc, Hải Châu
+214,2500000,25, Thanh Bình, Hải Châu
+215,2500000,25, Thanh Bình, Hải Châu
+216,2500000,25, Hòa An, Cẩm Lệ
+217,2500000,20, Hòa Cường Bắc, Hải Châu
+218,1000000,16,, Liên Chiểu
+219,2500000,22, Thanh Bình, Hải Châu
+220,2500000,25, Hòa Cường Bắc, Hải Châu
+221,2500000,20, Hòa Minh, Liên Chiểu
+222,2500000,25, Hòa An, Cẩm Lệ
+223,1500000,25, Nại Hiên Đông, Sơn Trà
+224,2500000,25, Hòa Cường Bắc, Hải Châu
+225,3500000,45, Hòa Hải, Ngũ Hành Sơn
+226,2500000,25, Thạch Thang, Hải Châu
+227,2500000,25, Hòa Cường Bắc, Hải Châu
+228,2500000,25, Khuê Trung, Cẩm Lệ
+229,2500000,25, Thanh Bình, Hải Châu
+230,2200000,30, Hòa Xuân, Cẩm Lệ
+231,2000000,32, Hòa Hải, Ngũ Hành Sơn
+232,700000,10, Hòa Khê, Thanh Khê
+233,1500000,15, Thạc Gián, Thanh Khê
+234,1000000,12, An Hải Đông, Sơn Trà
+235,2500000,30, Hòa Hải, Ngũ Hành Sơn
+236,1000000,25, Hòa Khánh Bắc, Liên Chiểu
+237,3500000,30, Hòa Thuận Đông, Hải Châu
+238,1500000,18, Mỹ An, Ngũ Hành Sơn
+239,2300000,20, Khuê Trung, Cẩm Lệ
+240,1000000,12, Hòa Cường Bắc, Hải Châu
+241,1400000,30, Hòa Quý, Ngũ Hành Sơn
+242,1500000,15, Mỹ An, Ngũ Hành Sơn
+243,3000000,30, Khuê Mỹ, Ngũ Hành Sơn
+244,2800000,24, An Khê, Thanh Khê
+245,1500000,15, An Hải Bắc, Sơn Trà
+246,2500000,25, Hòa Khánh Nam, Liên Chiểu
+247,1800000,20, Chính Gián, Thanh Khê
+248,500000,50, Xuân Hà, Thanh Khê
+249,1200000,25, Mỹ An, Ngũ Hành Sơn
+250,1200000,25, Mỹ An, Ngũ Hành Sơn
+251,1300000,40, Hòa Khánh Bắc, Liên Chiểu
+252,3500000,30, Mỹ An, Ngũ Hành Sơn
+253,2000000,20, Nại Hiên Đông, Sơn Trà
+254,1800000,20, Thanh Khê Tây, Thanh Khê
+255,1800000,20, Hòa Thuận Tây, Hải Châu
+256,2000000,27, Mân Thái, Sơn Trà
+257,1700000,20, Hòa Minh, Liên Chiểu
+258,3000000,20, Thuận Phước, Hải Châu
+259,3000000,25, Hòa Cường Bắc, Hải Châu
+260,1100000,13, Bình Thuận, Hải Châu
+261,3000000,28, Thạc Gián, Thanh Khê
+262,2300000,25, Khuê Trung, Cẩm Lệ
+263,1400000,24, Hòa Thọ Đông, Cẩm Lệ
+264,2500000,35, Khuê Trung, Cẩm Lệ
+265,3000000,30, Hòa Khê, Thanh Khê
+266,1700000,18, Hòa Cường Nam, Hải Châu
+267,3000000,25, Hòa Thuận Tây, Hải Châu
+268,1300000,8, Mỹ An, Ngũ Hành Sơn
+269,1500000,25, Hòa Thọ Đông, Cẩm Lệ
+270,2500000,30, Hòa Thuận Tây, Hải Châu
+271,1700000,25,, Cẩm Lệ
+272,3000000,30, Thanh Khê Đông, Thanh Khê
+273,1500000,25, Khuê Trung, Cẩm Lệ
+274,2000000,20, Hòa Phát, Cẩm Lệ
+275,1800000,20, Hòa Thuận Tây, Hải Châu
+276,2000000,20, Thanh Khê Tây, Thanh Khê
+277,2300000,25, Thạch Thang, Hải Châu
+278,3000000,16, Bình Hiên, Hải Châu
+279,2200000,20, Thanh Khê Đông, Thanh Khê
+280,1200000,16, Hòa Thọ Đông, Cẩm Lệ
+281,1000000,25, Hòa Thuận Tây, Hải Châu
+282,1500000,15, Khuê Mỹ, Ngũ Hành Sơn
+283,2500000,25,, Sơn Trà
+284,1600000,135, Hòa Hải, Ngũ Hành Sơn
+285,3000000,25, Hòa Cường Nam, Hải Châu
+286,2800000,35, Khuê Trung, Cẩm Lệ
+287,2500000,25, Nại Hiên Đông, Sơn Trà
+288,3000000,30, Hòa Cường Nam, Hải Châu
+289,1200000,14, Hòa Khánh Bắc, Liên Chiểu
+290,7000000,34, An Khê, Thanh Khê
+291,1800000,16, Hòa Minh, Liên Chiểu
+292,2500000,40, Bình Thuận, Hải Châu
+293,1300000,22, Hòa Thọ Đông, Cẩm Lệ
+294,2500000,30, Khuê Mỹ, Ngũ Hành Sơn
+295,4000000,35, Mỹ An, Ngũ Hành Sơn
+296,2700000,50, Hòa Cường Bắc, Hải Châu
+297,1300000,16, Hòa Cường Bắc, Hải Châu
+298,2000000,20, Hòa Quý, Ngũ Hành Sơn
+299,1800000,25, Hòa Hải, Ngũ Hành Sơn
+300,1000000,16, Thanh Khê Tây, Thanh Khê
+301,2000000,25, Hòa Xuân, Cẩm Lệ
+302,800000,20, Hòa Khánh Bắc, Liên Chiểu
+303,2200000,20, Thanh Khê Đông, Thanh Khê
+304,1600000,25, Hải Châu I, Hải Châu
+305,1500000,12, Mỹ An, Ngũ Hành Sơn
+306,3000000,25, Mỹ An, Ngũ Hành Sơn
+307,2000000,28, Hòa Minh, Liên Chiểu
+308,2500000,26, An Hải Đông, Sơn Trà
+309,4500000,40, Mỹ An, Ngũ Hành Sơn
+310,2800000,14, Thạc Gián, Thanh Khê
+311,2800000,30, Hòa Thuận Tây, Hải Châu
+312,1500000,20,, Sơn Trà
+313,1850000,29, Hòa Xuân, Cẩm Lệ
+314,2500000,18, Vĩnh Trung, Thanh Khê
+315,2500000,15, Hòa Cường Bắc, Hải Châu
+316,1500000,12, Hải Châu I, Hải Châu
+317,2200000,20, Hòa Khánh Bắc, Liên Chiểu
+318,2200000,20, Khuê Mỹ, Ngũ Hành Sơn
+319,2400000,20, Hòa Cường Bắc, Hải Châu
+320,2500000,20, Mỹ An, Ngũ Hành Sơn
+321,2500000,30, Hòa Minh, Liên Chiểu
+322,2000000,20, Chính Gián, Thanh Khê
+323,1600000,18, Hòa Khánh Bắc, Liên Chiểu
+324,1200000,14, An Khê, Thanh Khê
+325,1800000,25, Hòa Cường Nam, Hải Châu
+326,2500000,20, Khuê Mỹ, Ngũ Hành Sơn
+327,2200000,25, Nại Hiên Đông, Sơn Trà
+328,2300000,16, Khuê Trung, Cẩm Lệ
+329,2200000,15, Mỹ An, Ngũ Hành Sơn
+330,3500000,25, Hòa Cường Bắc, Hải Châu
+331,2300000,20, Khuê Trung, Cẩm Lệ
+332,1700000,20, Thạc Gián, Thanh Khê
+333,4000000,30, Phước Mỹ, Sơn Trà
+334,2000000,25, Hòa Cường Bắc, Hải Châu
+335,15000000,20, Hòa An, Cẩm Lệ
+336,1500000,20, Hòa Minh, Liên Chiểu
+337,2200000,20, Khuê Trung, Cẩm Lệ
+338,3500000,30, An Hải Bắc, Sơn Trà
+339,2000000,20, Hòa Minh, Liên Chiểu
+340,2000000,34,, Thanh Khê
+341,1700000,40, Hòa Minh, Liên Chiểu
+342,2000000,20, Khuê Mỹ, Ngũ Hành Sơn
+343,3000000,18, Hòa Khánh Bắc, Liên Chiểu
+344,1800000,12, Hòa Minh, Liên Chiểu
+345,2500000,25, Mỹ An, Ngũ Hành Sơn
+346,2000000,16, Hòa Minh, Liên Chiểu
+347,2000000,16, Khuê Trung, Cẩm Lệ
+348,1800000,18, Hòa Thuận Đông, Hải Châu
+349,2000000,16, Khuê Mỹ, Ngũ Hành Sơn
+350,1300000,15, Hòa Thuận Tây, Hải Châu
+351,2200000,20, Chính Gián, Thanh Khê
+352,3000000,25, Mỹ An, Ngũ Hành Sơn
+353,2100000,29, Hòa Minh, Liên Chiểu
+354,1800000,18, Khuê Trung, Cẩm Lệ
+355,2000000,30, Hòa Minh, Liên Chiểu
+356,1500000,20, Khuê Mỹ, Ngũ Hành Sơn
+357,1500000,20, Mỹ An, Ngũ Hành Sơn
+358,2000000,15, Hòa Minh, Liên Chiểu
+359,1600000,20, Hòa Minh, Liên Chiểu
+360,2000000,15, Hòa Minh, Liên Chiểu
+361,2000000,15, Hòa Minh, Liên Chiểu
+362,2000000,15, Hòa Minh, Liên Chiểu
+363,2200000,28, Hòa Minh, Liên Chiểu
+364,1800000,20, An Hải Bắc, Sơn Trà
+365,2500000,20, Thọ Quang, Sơn Trà
+366,2000000,14, Mỹ An, Ngũ Hành Sơn
+367,2400000,20, Thạc Gián, Thanh Khê
+368,2000000,22, Mỹ An, Ngũ Hành Sơn
+369,2000000,35, Khuê Mỹ, Ngũ Hành Sơn
+370,1800000,20, Hòa Thọ Đông, Cẩm Lệ
+371,2500000,25, Xuân Hà, Thanh Khê
+372,1500000,25, An Khê, Thanh Khê
+373,2800000,25, Hòa Cường Bắc, Hải Châu
+374,2000000,20, Hòa Cường Bắc, Hải Châu
+375,2800000,25, Hòa Cường Bắc, Hải Châu
+376,1200000,16, Hòa Khánh Bắc, Liên Chiểu
+377,1800000,20, Khuê Trung, Cẩm Lệ
+378,2500000,30, Hải Châu I, Hải Châu
+379,1500000,25, Hòa Thọ Đông, Cẩm Lệ
+380,3000000,25, Mỹ An, Ngũ Hành Sơn
+381,2000000,25, Hòa An, Cẩm Lệ
+382,750000,75, Thạc Gián, Thanh Khê
+383,1000000,20, Mỹ An, Ngũ Hành Sơn
+384,1200000,20, Hòa Minh, Liên Chiểu
+385,1600000,25, Hòa Thọ Đông, Cẩm Lệ
+386,3000000,35, Thanh Khê Tây, Thanh Khê
+387,2000000,20, Hòa Cường Bắc, Hải Châu
+388,1600000,25, Hòa Khánh Bắc, Liên Chiểu
+389,1500000,25, Hòa Khánh Nam, Liên Chiểu
+390,3000000,20, Khuê Trung, Cẩm Lệ
+391,2500000,20, Hòa Thuận Tây, Hải Châu
+392,5000000,50, Hải Châu I, Hải Châu
+393,3000000,30, Mỹ An, Ngũ Hành Sơn
+394,3000000,20, An Hải Tây, Sơn Trà
+395,2000000,20, Hòa Cường Bắc, Hải Châu
+396,2300000,20, Khuê Mỹ, Ngũ Hành Sơn
+397,3000000,28, Thanh Khê Tây, Thanh Khê
+398,1500000,15, Thạc Gián, Thanh Khê
+399,2500000,12, Hòa An, Cẩm Lệ
+400,2200000,18, Thanh Khê Đông, Thanh Khê
+401,800000,18, Hòa Thọ Tây, Cẩm Lệ
+402,1700000,25, Khuê Trung, Cẩm Lệ
+403,3700000,55, Hải Châu I, Hải Châu
+404,1200000,16, Hòa Minh, Liên Chiểu
+405,1200000,16, Hòa Minh, Liên Chiểu
+406,2000000,25, Hòa Thọ Đông, Cẩm Lệ
+407,2000000,15, Hòa Minh, Liên Chiểu
+408,2200000,30, Mỹ An, Ngũ Hành Sơn
+409,3000000,53, Khuê Mỹ, Ngũ Hành Sơn
+410,1800000,25, Thạch Thang, Hải Châu
+411,2500000,28, Hòa Xuân, Cẩm Lệ
+412,1800000,26, Hòa Khê, Thanh Khê
+413,4000000,35, Mỹ An, Ngũ Hành Sơn
+414,1800000,15, Hòa An, Cẩm Lệ
+415,1500000,20, Hòa Khê, Thanh Khê
+416,2300000,20, Thanh Khê Tây, Thanh Khê
+417,1700000,15, Xuân Hà, Thanh Khê
+418,900000,16, Hòa Minh, Liên Chiểu
+419,1100000,16, Thanh Khê Đông, Thanh Khê
+420,6000000,20, Hòa An, Cẩm Lệ
+421,3500000,30, Hòa Cường Bắc, Hải Châu
+422,2100000,15, Hòa Minh, Liên Chiểu
+423,1500000,50, Hòa Khánh Bắc, Liên Chiểu
+424,2000000,25, Hòa Khánh Bắc, Liên Chiểu
+425,2500000,20, Chính Gián, Thanh Khê
+426,1700000,20, Hòa Minh, Liên Chiểu
+427,1800000,18, Hòa Phát, Cẩm Lệ
+428,1500000,17, Hòa Thuận Tây, Hải Châu
+429,2500000,20, Hòa Minh, Liên Chiểu
+430,1500000,11, An Hải Tây, Sơn Trà
+431,2500000,20, Hòa Thuận Tây, Hải Châu
+432,1600000,18, Hòa Khánh Bắc, Liên Chiểu
+433,2000000,19, Thanh Khê Tây, Thanh Khê
+434,3100000,20, An Hải Bắc, Sơn Trà
+435,2000000,24, Thọ Quang, Sơn Trà
+436,2300000,25, Khuê Trung, Cẩm Lệ
+437,2200000,29, Hòa Minh, Liên Chiểu
+438,1500000,16, Hòa Cường Bắc, Hải Châu
+439,1200000,12, Nam Dương, Hải Châu
+440,1500000,30, Hòa Xuân, Cẩm Lệ
+441,1500000,15, Hòa Minh, Liên Chiểu
+442,3500000,25, Hải Châu I, Hải Châu
+443,1500000,20, Mân Thái, Sơn Trà
+444,2000000,25, Hòa Xuân, Cẩm Lệ
+445,2500000,20, Khuê Mỹ, Ngũ Hành Sơn
+446,2000000,25, Hòa Cường Bắc, Hải Châu
+447,2300000,32, Hòa Khánh Bắc, Liên Chiểu
+448,2000000,25, Hòa Minh, Liên Chiểu
+449,2700000,30, Mân Thái, Sơn Trà
+450,2000000,20, Hòa Minh, Liên Chiểu
+451,1500000,15, Hòa An, Cẩm Lệ
+452,1800000,18, Hòa Minh, Liên Chiểu
+453,2500000,25, Vĩnh Trung, Thanh Khê
+454,2500000,35, Tam Thuận, Thanh Khê
+455,1500000,19, Khuê Trung, Cẩm Lệ
+456,2500000,10, Thạc Gián, Thanh Khê
+457,2500000,15, Thạc Gián, Thanh Khê
+458,1500000,12, Thạc Gián, Thanh Khê
+459,1100000,40, Chính Gián, Thanh Khê
+460,2300000,23, Nại Hiên Đông, Sơn Trà
+461,2000000,40, Thạc Gián, Thanh Khê
+462,2500000,35, Hòa Minh, Liên Chiểu
+463,1200000,20, Hòa Cường Bắc, Hải Châu
+464,1700000,13, An Khê, Thanh Khê
+465,2300000,30, Hòa Xuân, Cẩm Lệ
+466,2000000,20, Chính Gián, Thanh Khê
+467,4000000,25, An Hải Bắc, Sơn Trà
+468,1300000,16, Mỹ An, Ngũ Hành Sơn
+469,2000000,25, Hòa Thọ Đông, Cẩm Lệ
+470,1700000,15, Xuân Hà, Thanh Khê
+471,3200000,39, Thanh Bình, Hải Châu
+472,2000000,20, Hòa Minh, Liên Chiểu
+473,1200000,25, Hòa Minh, Liên Chiểu
+474,3000000,35, Hải Châu II, Hải Châu
+475,2000000,20, Mỹ An, Ngũ Hành Sơn
+476,3000000,30, Mỹ An, Ngũ Hành Sơn
+477,1500000,25, Hòa Minh, Liên Chiểu
+478,2000000,17, Hòa Cường Bắc, Hải Châu
+479,1000000,20, Hòa Minh, Liên Chiểu
+480,1800000,16, Phước Mỹ, Sơn Trà
+481,700000,14, Hòa Hải, Ngũ Hành Sơn
+482,1500000,25, An Khê, Thanh Khê
+483,1700000,16, Hòa Khê, Thanh Khê
+484,2000000,20, Chính Gián, Thanh Khê
+485,2200000,25, Hòa Thọ Đông, Cẩm Lệ
+486,2000000,20, Khuê Trung, Cẩm Lệ
+487,1700000,20, Mỹ An, Ngũ Hành Sơn
+488,2800000,35, Hòa An, Cẩm Lệ
+489,1200000,4, Nại Hiên Đông, Sơn Trà
+490,2000000,25, Hòa Xuân, Cẩm Lệ
+491,4500000,25, An Hải Bắc, Sơn Trà
+492,3000000,25, An Hải Tây, Sơn Trà
+493,2700000,23, Khuê Trung, Cẩm Lệ
+494,2000000,15, Xuân Hà, Thanh Khê
+495,1700000,25, Hòa Thọ Đông, Cẩm Lệ
+496,2000000,25, Hòa Thọ Đông, Cẩm Lệ
+497,2500000,25, Hòa Thuận Tây, Hải Châu
+498,2500000,23, Khuê Trung, Cẩm Lệ
+499,1800000,21, Hòa An, Cẩm Lệ
+500,2300000,35, Hòa Khánh Nam, Liên Chiểu
+501,1500000,25, Hòa Khánh Nam, Liên Chiểu
+502,2300000,35, Hòa Khánh Nam, Liên Chiểu
+503,1500000,15, Mỹ An, Ngũ Hành Sơn
+504,1200000,15, Thanh Khê Đông, Thanh Khê
+505,2200000,16, Hòa Cường Bắc, Hải Châu
+506,1500000,16, An Hải Bắc, Sơn Trà
+507,2500000,20, Tam Thuận, Thanh Khê
+508,4000000,32, Hòa Xuân, Cẩm Lệ
+509,4500000,120, Thọ Quang, Sơn Trà
+510,1500000,12, Hòa Hải, Ngũ Hành Sơn
+511,1800000,30, Hòa Khánh Nam, Liên Chiểu
+512,2700000,25, Thanh Bình, Hải Châu
+513,1800000,13, Phước Mỹ, Sơn Trà
+514,2500000,20, Thanh Khê Tây, Thanh Khê
+515,3000000,20, Hòa Thuận Đông, Hải Châu
+516,2600000,20, Hòa Cường Bắc, Hải Châu
+517,2500000,21, Hòa Hải, Ngũ Hành Sơn
+518,2000000,30, Hòa Quý, Ngũ Hành Sơn
+519,4000000,25, Thanh Bình, Hải Châu
+520,2500000,20, An Khê, Thanh Khê
+521,3000000,300, Tam Thuận, Thanh Khê
+522,1700000,20, Chính Gián, Thanh Khê
+523,3000000,25, Thanh Khê Đông, Thanh Khê
+524,3500000,24, An Hải Tây, Sơn Trà
+525,2500000,25, Khuê Trung, Cẩm Lệ
+526,2900000,32, Khuê Trung, Cẩm Lệ
+527,1500000,21, Hòa Khánh Nam, Liên Chiểu
+528,3500000,25, Vĩnh Trung, Thanh Khê
+529,2200000,26, Hòa Xuân, Cẩm Lệ
+530,650000,24, Hòa Tiến, Hoà Vang
+531,1500000,20, Hòa Thọ Đông, Cẩm Lệ
+532,2500000,20, Thanh Khê Tây, Thanh Khê
+533,3000000,20, Thuận Phước, Hải Châu
+534,2000000,25, Khuê Mỹ, Ngũ Hành Sơn
+535,4500000,30, Hòa Thuận Tây, Hải Châu
+536,3200000,25, Thạc Gián, Thanh Khê
+537,2500000,18, Hòa Cường Bắc, Hải Châu
+538,3000000,20, Vĩnh Trung, Thanh Khê
+539,2800000,50,, Sơn Trà
+540,1800000,12, Hòa Thuận Tây, Hải Châu
+541,2800000,75, Hòa Cường Bắc, Hải Châu
+542,1600000,15, Hòa Cường Bắc, Hải Châu
+543,4900000,30, Hải Châu I, Hải Châu
+544,1900000,14, Thạc Gián, Thanh Khê
+545,2500000,12, Thạch Thang, Hải Châu
+546,1800000,18, Phước Ninh, Hải Châu
+547,1200000,16, Khuê Trung, Cẩm Lệ
+548,1800000,30, Hòa Xuân, Cẩm Lệ
+549,1600000,18, Hòa Thọ Đông, Cẩm Lệ
+550,1300000,21, Hòa Liên, Hoà Vang
+551,1600000,20, Hải Châu I, Hải Châu
+552,2800000,30, Khuê Mỹ, Ngũ Hành Sơn
+553,2000000,20, Hòa An, Cẩm Lệ
+554,1800000,15, Hòa Thọ Đông, Cẩm Lệ
+555,1200000,20, Hòa Minh, Liên Chiểu
+556,2700000,27, Khuê Trung, Cẩm Lệ
+557,2500000,20, Nại Hiên Đông, Sơn Trà
+558,2500000,22, Hòa Cường Nam, Hải Châu
+559,1800000,18, Hòa Minh, Liên Chiểu
+560,2500000,17, Thanh Khê Đông, Thanh Khê
+561,1300000,15, Hòa Minh, Liên Chiểu
+562,1300000,15, Chính Gián, Thanh Khê
+563,2000000,100, Mỹ An, Ngũ Hành Sơn
+564,2400000,25, Hòa Thọ Đông, Cẩm Lệ
+565,1800000,18, Khuê Mỹ, Ngũ Hành Sơn
+566,2000000,25, Mân Thái, Sơn Trà
+567,3900000,24, An Hải Tây, Sơn Trà
+568,2300000,18, Mỹ An, Ngũ Hành Sơn
+569,2000000,25, Hòa Minh, Liên Chiểu
+570,4000000,24, Mỹ An, Ngũ Hành Sơn
+571,2500000,30, Hòa Cường Nam, Hải Châu
+572,1600000,18, Thạc Gián, Thanh Khê
+573,3000000,25, Tam Thuận, Thanh Khê
+574,2800000,23, Chính Gián, Thanh Khê
+575,2500000,25, Hòa Cường Nam, Hải Châu
+576,2500000,20, Chính Gián, Thanh Khê
+577,2000000,20, Hòa Cường Nam, Hải Châu
+578,600000,14, Hòa Minh, Liên Chiểu
+579,2000000,16, Khuê Trung, Cẩm Lệ
+580,2500000,19, Khuê Trung, Cẩm Lệ
+581,3500000,35, Hòa Cường Bắc, Hải Châu
+582,1200000,10, Thanh Khê Tây, Thanh Khê
+583,2500000,18,, Cẩm Lệ
+584,1500000,15, Hòa Cường Nam, Hải Châu
+585,1100000,16, Hòa Khánh Bắc, Liên Chiểu
+586,1100000,45, Vĩnh Trung, Thanh Khê
+587,2300000,20, Hòa Cường Bắc, Hải Châu
+588,1200000,20, Mỹ An, Ngũ Hành Sơn
+589,4000000,30, Hải Châu I, Hải Châu
+590,2200000,45,, Thanh Quan
+591,2000000,30, Hòa Minh, Liên Chiểu
+592,1500000,20,, Thanh Khê
+593,2300000,16, Hòa Cường Nam, Hải Châu
+594,2000000,25, Hòa An, Cẩm Lệ
+595,1800000,26, Hòa Phát, Cẩm Lệ
+596,1800000,20, Thạc Gián, Thanh Khê
+597,2200000,20, Xuân Hà, Thanh Khê
+598,3500000,30, Hòa Thọ Đông, Cẩm Lệ
+599,3000000,12, Hòa Cường Bắc, Hải Châu
+600,4500000,48, Mỹ An, Ngũ Hành Sơn
+601,2000000,350, Hòa An, Cẩm Lệ
+602,1200000,10, Hòa Minh, Liên Chiểu
+603,2500000,25, Hòa Phát, Cẩm Lệ
+604,3000000,18, Mỹ An, Ngũ Hành Sơn
+605,4000000,140, Hòa Minh, Liên Chiểu
+606,2500000,25, Hòa Xuân, Cẩm Lệ
+607,5000000,30, Hòa Cường Nam, Hải Châu
+608,4500000,38, Phước Ninh, Hải Châu
+609,3000000,25,, Hải Châu
+610,2200000,20,, Liên Chiểu
+611,2700000,15, Mỹ An, Ngũ Hành Sơn
+612,1800000,15, Thạc Gián, Thanh Khê
+613,3500000,25, Thạc Gián, Thanh Khê
+614,2000000,20, Khuê Trung, Cẩm Lệ
+615,1800000,25, Hòa Khánh Nam, Liên Chiểu
+616,3000000,20, Mỹ An, Ngũ Hành Sơn
+617,3000000,19, An Hải Đông, Sơn Trà
+618,4500000,25, An Khê, Thanh Khê
+619,3500000,20, Mỹ An, Ngũ Hành Sơn
+620,5500000,25, Hòa Cường Nam, Hải Châu
+621,2900000,27, Khuê Mỹ, Ngũ Hành Sơn
+622,3800000,28, Hòa Cường Bắc, Hải Châu
+623,4800000,30, An Hải Đông, Sơn Trà
+624,5000000,34, Hải Châu I, Hải Châu
+625,3000000,14, Mỹ An, Ngũ Hành Sơn
+626,3000000,30, Hòa Hiệp Nam, Liên Chiểu
+627,4500000,30, An Hải Tây, Sơn Trà
+628,3500000,34, Hòa Xuân, Cẩm Lệ
+629,3500000,20, An Hải Đông, Sơn Trà
+630,1600000,21, Hòa Châu, Hoà Vang
+631,1500000,16, Khuê Trung, Cẩm Lệ
+632,2500000,50, Hòa Xuân, Cẩm Lệ
+633,2900000,23, An Khê, Thanh Khê
+634,3700000,20, An Hải Bắc, Sơn Trà
+635,4000000,30, Hòa Khê, Thanh Khê
+636,2000000,11, Chính Gián, Thanh Khê
+637,2000000,5,, Thanh Khê
+638,1500000,14, Hòa Khánh Nam, Liên Chiểu
+639,1300000,15, Hòa Khánh Bắc, Liên Chiểu
+640,4000000,25,, Hải Châu
+641,1200000,15, Hòa Khánh Nam, Liên Chiểu
+642,1700000,14,, Thanh Khê
+643,1500000,15, Thạc Gián, Thanh Khê
+644,2200000,15, Phước Ninh, Hải Châu
+645,1400000,20, Hòa An, Cẩm Lệ
+646,2200000,25,, Cẩm Lệ
+647,2000000,25,, Sơn Trà
+648,3500000,30, An Hải Tây, Sơn Trà
+649,1000000,16, Hòa Khê, Thanh Khê
+650,2200000,30, Chính Gián, Thanh Khê
+651,4300000,32, Hòa Minh, Liên Chiểu
+652,3200000,20,, Ngũ Hành Sơn
+653,2000000,15,, Hải Châu
+654,2000000,20, Hòa Khánh Bắc, Liên Chiểu
+655,1500000,20, Hòa Hải, Ngũ Hành Sơn
+656,3500000,30, An Khê, Thanh Khê
+657,2300000,35, Hòa Khánh Nam, Liên Chiểu
+658,1300000,18, Hòa Minh, Liên Chiểu
+659,1200000,20, Hòa Khánh Bắc, Liên Chiểu
+660,2500000,15, Vĩnh Trung, Thanh Khê
+661,3000000,60, Hòa An, Cẩm Lệ
+662,1800000,20, Hòa An, Cẩm Lệ
+663,1800000,15, Thạc Gián, Thanh Khê
+664,2000000,20, Hòa An, Cẩm Lệ
+665,1600000,18, Hòa Minh, Liên Chiểu
+666,2000000,20, Hòa An, Cẩm Lệ
+667,2500000,40,, Thanh Khê
+668,4000000,20, Hòa Xuân, Cẩm Lệ
+669,5000000,34, Hải Châu I, Hải Châu
+670,1500000,15, Hòa Cường Bắc, Hải Châu
+671,1600000,18, Hòa Minh, Liên Chiểu
+672,6000000,40, Khuê Mỹ, Ngũ Hành Sơn
+673,2000000,20, Hòa An, Cẩm Lệ
+674,2500000,20, Hải Châu I, Hải Châu
+675,1700000,16, Khuê Trung, Cẩm Lệ
+676,1300000,40, Mỹ An, Ngũ Hành Sơn
+677,1300000,45, Mỹ An, Ngũ Hành Sơn
+678,2000000,24, Hòa Minh, Liên Chiểu
+679,2200000,20, Khuê Trung, Cẩm Lệ
+680,2300000,23, Hòa Hải, Ngũ Hành Sơn
+681,3300000,20, Thanh Bình, Hải Châu
+682,1500000,13, Hòa Khê, Thanh Khê
+683,1700000,22,, Hải Châu
+684,2500000,20, Hòa Cường Bắc, Hải Châu
+685,3000000,25, An Khê, Thanh Khê
+686,2000000,16, Hòa Minh, Liên Chiểu
+687,2000000,20, Hòa Xuân, Cẩm Lệ
+688,2500000,18, Mỹ An, Ngũ Hành Sơn
+689,7500000,30,, Sơn Trà
+690,2300000,15, Hòa Cường Bắc, Hải Châu
+691,3500000,30, Khuê Mỹ, Ngũ Hành Sơn
+692,1400000,20,, Liên Chiểu
+693,3200000,30, Khuê Trung, Cẩm Lệ
+694,2200000,20, Hòa Cường Bắc, Hải Châu
+695,2000000,20, Hòa Khánh Nam, Liên Chiểu
+696,1500000,20, Hòa Khánh Bắc, Liên Chiểu
+697,3500000,25, Hòa Cường Bắc, Hải Châu
+698,2200000,25, Hòa Thọ Đông, Cẩm Lệ
+699,2500000,24, Khuê Mỹ, Ngũ Hành Sơn
+700,2,20, An Hải Bắc, Sơn Trà
+701,1600000,16,, Cẩm Lệ
+702,1200000,20,, Thanh Khê
+703,1200000,20,, Thanh Khê
+704,2500000,20, Hải Châu I, Hải Châu
+705,2400000,25, Xuân Hà, Thanh Khê
+706,4200000,37, Tam Thuận, Thanh Khê
+707,1500000,15, Hòa An, Cẩm Lệ
+708,1700000,125, An Hải Bắc, Sơn Trà
+709,7000000,40, Hòa Hải, Ngũ Hành Sơn
+710,2200000,20, An Khê, Thanh Khê
+711,3500000,25, An Khê, Thanh Khê
+712,1400000,17, Hòa Khánh Nam, Liên Chiểu
+713,3000000,30, Hòa Thọ Đông, Cẩm Lệ
+714,2000000,25, Hòa Hải, Ngũ Hành Sơn
+715,1800000,18,, Cẩm Lệ
+716,2800000,18, Khuê Trung, Cẩm Lệ
+717,2500000,15, Hòa Cường Bắc, Hải Châu
+718,2000000,20, Hòa Xuân, Cẩm Lệ
+719,2500000,20, Hòa Cường Nam, Hải Châu
+720,3000000,16, Hòa Cường Bắc, Hải Châu
+721,4000000,25, Hòa Cường Bắc, Hải Châu
+722,1000000,100, Hòa Thuận Tây, Hải Châu
+723,2500000,15, Hòa Hải, Ngũ Hành Sơn
+724,2600000,26, Khuê Mỹ, Ngũ Hành Sơn
+725,3900000,25,, Sơn Trà
+726,3950000,40, Thọ Quang, Sơn Trà
+727,1500000,30, Hòa Hiệp Nam, Liên Chiểu
+728,3000000,20, Mân Thái, Sơn Trà
+729,2500000,22, Hải Châu I, Hải Châu
+730,2500000,25, Hòa Cường Nam, Hải Châu
+731,1800000,22, Thanh Khê Tây, Thanh Khê
+732,3400000,50,, Sơn Trà
+733,2500000,20, Hải Châu I, Hải Châu
+734,2000000,25, Hòa Thọ Tây, Cẩm Lệ
+735,2400000000,20, An Hải Bắc, Sơn Trà
+736,4200000,70, Chính Gián, Thanh Khê
+737,2500000,32, Phước Mỹ, Sơn Trà
+738,2000000,40, Hòa Khánh Nam, Liên Chiểu
+739,600000,16, Hòa Hiệp Bắc, Liên Chiểu
+740,2700000,17, Hòa Cường Bắc, Hải Châu
+741,4500000,20, Thọ Quang, Sơn Trà
+742,2300000,15, Hòa Xuân, Cẩm Lệ
+743,2700000,25, Hòa Xuân, Cẩm Lệ
+744,2000000,15, Hòa Thuận Đông, Hải Châu
+745,2200000,20, Bình Thuận, Hải Châu
+746,3000000,25, Hòa Minh, Liên Chiểu
+747,2000000,20, Khuê Trung, Cẩm Lệ
+748,600000,18, Hòa Hiệp Bắc, Liên Chiểu
+749,2500000,20,, Sơn Trà
+750,2500000,25,, Hải Châu
+751,2400000,20, Hòa Cường Bắc, Hải Châu
+752,1700000,16, Hòa Khánh Nam, Liên Chiểu
+753,4000000,20, Thạch Thang, Hải Châu
+754,2200000,20, Hòa Xuân, Cẩm Lệ
+755,1000000,20,, Hải Châu
+756,1500000,25, Hòa Cường Nam, Hải Châu
+757,2500000,30, Tam Thuận, Thanh Khê
+758,2000000,25, Bình Thuận, Hải Châu
+759,3500000,32, Hòa Cường Bắc, Hải Châu
+760,2300000,15, Hòa Minh, Liên Chiểu
+761,2000000,20,, Hải Châu
+762,1800000,20, Khuê Trung, Cẩm Lệ
+763,3500000,20,,
+764,1000000,20,, Hải Châu
+765,2000000,18, Hòa Cường Bắc, Hải Châu
+766,2000000,25, Hải Châu I, Hải Châu
+767,1600000,30, Hòa Khánh Bắc, Liên Chiểu
+768,1000000,20, Hòa An, Cẩm Lệ
+769,5000000,25, Phước Ninh, Hải Châu
+770,1000000,17, Chính Gián, Thanh Khê
+771,1500000,25, Hòa Khánh Bắc, Liên Chiểu
+772,2000000,15, Hòa Cường Bắc, Hải Châu
+773,2000000,21, Hòa Hải, Ngũ Hành Sơn
+774,3500000,16, Mỹ An, Ngũ Hành Sơn
+775,3500000,25, Mỹ An, Ngũ Hành Sơn
+776,3000000,35,,
+777,1500000,16, Hòa Khánh Bắc, Liên Chiểu
+778,1400000,16,, Hải Châu
+779,4500000,20, Hòa Cường Bắc, Hải Châu
+780,800000,10, Vĩnh Trung, Thanh Khê
+781,1800000,20,, Cẩm Lệ
+782,4500000,20, Hòa Cường Bắc, Hải Châu
+783,2500000,35, Hòa Thuận Tây, Hải Châu
+784,397000,10, Mân Thái, Sơn Trà
+785,2000000,20, Hòa Cường Bắc, Hải Châu
+786,1700000,42, Khuê Trung, Cẩm Lệ
+787,1400000,20,, Liên Chiểu
+788,4000000,30, An Khê, Thanh Khê
+789,2800000,15, Mỹ An, Ngũ Hành Sơn
+790,1700000,18, Khuê Trung, Cẩm Lệ
+791,4000000,60,, Thanh Khê
+792,2000000,16, Hòa Hải, Ngũ Hành Sơn
+793,1400000,15, Hòa Khánh Nam, Liên Chiểu
+794,1000000,600, Thọ Quang, Sơn Trà
+795,2500000,25, Xuân Hà, Thanh Khê
+796,2000000,25, Xuân Hà, Thanh Khê
+797,1500000,21, Hòa Thọ Đông, Cẩm Lệ
+798,800000,10, Hòa Khánh Bắc, Liên Chiểu
+799,1600000,16, Hòa Cường Nam, Hải Châu
+800,,50, Khuê Trung, Cẩm Lệ
+801,1600000,16, Hòa Cường Nam, Hải Châu
+802,700000,12, Hòa Khánh Nam, Liên Chiểu
+803,1200000,15, Hòa Thuận Đông, Hải Châu
+804,1900000,25, Chính Gián, Thanh Khê
+805,,16, Thạc Gián, Thanh Khê
+806,2000000,25, Hòa Khê, Thanh Khê
+807,3000000,22, An Hải Bắc, Sơn Trà
+808,,30, Vĩnh Trung, Thanh Khê
+809,3500000,20, Phước Mỹ, Sơn Trà
+810,900000,15, Hòa Hiệp Nam, Liên Chiểu
+811,700000,30, Hòa Quý, Ngũ Hành Sơn
+812,1500,30, Hòa Khánh Bắc, Liên Chiểu
+813,600000,12, Hòa Hải, Ngũ Hành Sơn
+814,1000000,10, Hòa Cường Bắc, Hải Châu
+815,,30, Xuân Hà, Thanh Khê
+816,2950000,18, Thọ Quang, Sơn Trà
+817,800000,30, Xuân Hà, Thanh Khê
+818,500000,20,, Liên Chiểu
+819,5000000,20,, Liên Chiểu
+820,3000000,30, Hải Châu I, Hải Châu
+821,900000,0, Hòa Minh, Liên Chiểu
+822,,20, Chính Gián, Thanh Khê
+823,1100000,22, Hòa Thọ Đông, Cẩm Lệ
+824,650000,20,, Liên Chiểu
+825,,9,, Hải Châu
+826,2200000,20, Hòa Minh, Liên Chiểu
+827,,12, Bình Hiên, Hải Châu
+828,1000000,23, Hòa Khánh Nam, Liên Chiểu
+829,1000000,20, Hòa Thuận Tây, Hải Châu
+830,800000,20, Hòa Khánh Nam, Liên Chiểu
+831,700000,15, Hòa An, Cẩm Lệ
+832,3000000,25, Khuê Trung, Cẩm Lệ
+833,600000,15, Hòa Khánh Bắc, Liên Chiểu
+834,,40, Tân Chính, Thanh Khê
+835,2000000,30, Thạc Gián, Thanh Khê
+836,1000000,30,, Thanh Khê
+837,600000,25, Hòa Thuận Tây, Hải Châu
+838,2500000,25, Khuê Trung, Cẩm Lệ
+839,1300000,15,,
+840,1500000,21, Hòa Minh, Liên Chiểu
+841,1000000,20, Hòa Khánh Nam, Liên Chiểu
+842,2000000,30,,
+843,1100000,25, Tam Thuận, Thanh Khê
+844,2000000,15,, Hải Châu
+845,2500000,25,, Sơn Trà
+846,1000000,15, Mỹ An, Ngũ Hành Sơn
+847,800000,16, Hòa Minh, Liên Chiểu
+848,1200000,24, Hòa Minh, Liên Chiểu
+849,1500000,20, Thạch Thang, Hải Châu
+850,1000000,22, Hòa Hải, Ngũ Hành Sơn
+851,,20, Hòa Minh, Liên Chiểu
+852,,30, Hải Châu I, Hải Châu
+853,800000,15, Hòa Khê, Thanh Khê
+854,1600,48, Hòa Khánh Nam, Liên Chiểu
+855,1200000,20, Hòa Thuận Tây, Hải Châu
+856,,30, Hòa Minh, Liên Chiểu
+857,1300000,20, An Hải Bắc, Sơn Trà
+858,1000000,27, Hòa Khánh Nam, Liên Chiểu
+859,900000,15,, Cẩm Lệ
+860,2500000,30,, Hải Châu
+861,1000000,25,,
+862,,12,, Thanh Khê
+863,1300000,25,,
+864,600000,28,,
+865,,16,,
+866,1000000,18,, Sơn Trà
+867,1200000,20,,
+868,1500000,20,,
+869,4000000,100,, Hải Châu
+870,1300000,15,, Cẩm Lệ
+871,3500000,34,, Thanh Khê
+872,3000000,50,,
+873,1100000,21,, Thanh Khê
+874,,26,, Hải Châu
+875,,18,, Cẩm Lệ
+876,,30,,
+877,2300000,40,, Thanh Khê
+878,1000000,18,, Ngũ Hành Sơn
+879,500000,12, Hòa Khánh Bắc, Liên Chiểu
+880,1000000,30,, Hải Châu
+881,1500000,20,,
+882,1200000,30,,
+883,2000000,18,,
+884,,20,, Sơn Trà
+885,800000,12,,
+886,700000,12,,
+887,2000000,91,,
+888,1200000,12,,
+889,2500000,30,,
+890,1000000,15,,
+891,2000000,25,,
+892,1500000,24,,
+893,2000000,18,,
+894,1000000,15,,
+895,1000000,15,,
+896,1000000,28,,
+897,1200000,15,,
+898,1200000,15,,
+899,1000000,14,,
+900,1000000,12,,
+901,1600000,18,,
+902,2500000,60,, Thanh Khê
+903,1200000,20,,
+904,1200000,15,,
+905,600000,15,, Ngũ Hành Sơn
+906,1600000,16,,
+907,900000,15,,
