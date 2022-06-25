@@ -26,7 +26,7 @@
 24,1000000,18,,Nhà trống, Thanh Khê Tây, Thanh Khê
 25,700000,25,,, Hòa Khánh Bắc, Liên Chiểu
 26,1700000,18,1700000,Nhà trống, An Khê, Thanh Khê
-27,3900000,40,,Tình trạng nội thất: Nội thất cao cấp, Khuê Mỹ, Ngũ Hành Sơn
+27,3900000,40,,Nội thất cao cấp, Khuê Mỹ, Ngũ Hành Sơn
 28,1200000,15,1,, Thanh Bình, Hải Châu
 29,1700000,25,1000000,Nhà trống, Mỹ An, Ngũ Hành Sơn
 30,900000,15,,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
@@ -38,7 +38,7 @@
 36,2000000,25,,Nội thất đầy đủ, Hoà Hải, Ngũ Hành Sơn
 37,2200000,70,500000,, An Hải Đông, Sơn Trà
 38,2000000,25,1500000,Nhà trống, Hòa Phước, Hòa Vang
-39,1600000,30,,Tình trạng nội thất: Nội thất cao cấp, An Khê, Thanh Khê
+39,1600000,30,,Nội thất cao cấp, An Khê, Thanh Khê
 40,1500000,20,500000,Nhà trống, Hòa Thuận Tây, Hải Châu
 41,2000000,25,1000000,Nhà trống, Thanh Khê Tây, Thanh Khê
 42,1000000,25,500000,Nhà trống, Hòa Xuân, Cẩm Lệ
@@ -46,7 +46,7 @@
 44,2000000,25,1000000,, Mân Thái, Sơn Trà
 45,2000000,15,,, Hòa Thuận Tây, Hải Châu
 46,2500000,30,2500000,Nhà trống, Vĩnh Trung, Thanh Khê
-47,1000000,360,500000,Tình trạng nội thất: Nội thất cao cấp, Hòa Cường Nam, Hải Châu
+47,1000000,360,500000,Nội thất cao cấp, Hòa Cường Nam, Hải Châu
 48,2500000,35,2000000,, Chính Gián, Thanh Khê
 49,1400000,18,500000,, Hòa Thọ Đông, Cẩm Lệ
 50,900000,25,,, Hòa Phong, Hòa Vang
@@ -85,7 +85,7 @@
 83,2700000,25,1000000,Nhà trống, Hòa Cường Nam, Hải Châu
 84,5000000,25,,Nội thất đầy đủ, Phước Ninh, Hải Châu
 85,1400000,20,500000,, Hòa Minh, Liên Chiểu
-86,3200000,40,3200000,Tình trạng nội thất: Nội thất cao cấp, Hòa Khánh Nam, Liên Chiểu
+86,3200000,40,3200000,Nội thất cao cấp, Hòa Khánh Nam, Liên Chiểu
 87,1500000,45,1000000,Nhà trống, Thọ Quang, Sơn Trà
 88,2000000,20,,, Khuê Mỹ, Ngũ Hành Sơn
 89,2000000,30,1000000,, Hòa Khánh Nam, Liên Chiểu
@@ -195,7 +195,7 @@
 193,2700000,40,1000000,Nội thất đầy đủ, Thanh Bình, Hải Châu
 194,1600000,20,500000,, Hòa Thọ Đông, Cẩm Lệ
 195,967000,30,100000,Nội thất đầy đủ, Hòa Cường Nam, Hải Châu
-196,2500000,25,2500000,Tình trạng nội thất: Nội thất cao cấp, Hòa Cường Nam, Hải Châu
+196,2500000,25,2500000,Nội thất cao cấp, Hòa Cường Nam, Hải Châu
 197,200000,30,,Nội thất đầy đủ, An Khê, Thanh Khê
 198,2500000,30,,, Hoà Hải, Ngũ Hành Sơn
 199,1200000,20,1200000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
@@ -252,7 +252,7 @@
 250,4500000,72,2000000,, Nại Hiên Đông, Sơn Trà
 251,1600000,20,500000,Nội thất đầy đủ, Hoà Quý, Ngũ Hành Sơn
 252,2300000,19,500000,Nhà trống, Thuận Phước, Hải Châu
-253,4000000,40,4000000,Tình trạng nội thất: Nội thất cao cấp, Khuê Mỹ, Ngũ Hành Sơn
+253,4000000,40,4000000,Nội thất cao cấp, Khuê Mỹ, Ngũ Hành Sơn
 254,2500000,25000,500000,Nhà trống, Thanh Khê Tây, Thanh Khê
 255,5000000,50,5000000,Nhà trống, Hòa Thọ Đông, Cẩm Lệ
 256,1800000,15,1800000,, Hòa Khánh Nam, Liên Chiểu
@@ -304,11 +304,11 @@
 302,1500000,13,,, An Hải Đông, Sơn Trà
 303,1500000,45,500000,, Hoà Quý, Ngũ Hành Sơn
 304,3000000,60,,, Hoà Hải, Ngũ Hành Sơn
-305,2000000,1000,1000000,Tình trạng nội thất: Nội thất cao cấp, Mỹ An, Ngũ Hành Sơn
+305,2000000,1000,1000000,Nội thất cao cấp, Mỹ An, Ngũ Hành Sơn
 306,1300000,12,1000000,, Nam Dương, Hải Châu
 307,600000,15,600000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
 308,2000000,20,,Nhà trống, Phước Mỹ, Sơn Trà
-309,250000,40,,Tình trạng nội thất: Nội thất cao cấp, An Hải Đông, Sơn Trà
+309,250000,40,,Nội thất cao cấp, An Hải Đông, Sơn Trà
 310,1650000,15,1000000,Nhà trống, Hòa Thuận Tây, Hải Châu
 311,1400000,20,1400000,Nhà trống, Hòa Minh, Liên Chiểu
 312,2000000,35,600000,Nhà trống, An Khê, Thanh Khê
@@ -328,7 +328,7 @@
 326,1800000,10,,Nhà trống, Hòa Khê, Thanh Khê
 327,1800000,18,500000,Nhà trống, Vĩnh Trung, Thanh Khê
 328,2000000,12,,, Hòa Thuận Tây, Hải Châu
-329,1200000,11,500000,Tình trạng nội thất: Nội thất cao cấp, Tam Thuận, Thanh Khê
+329,1200000,11,500000,Nội thất cao cấp, Tam Thuận, Thanh Khê
 330,1100000,40,50000,Nội thất đầy đủ, Thuận Phước, Hải Châu
 331,1500000,12,200000,Nhà trống, Tam Thuận, Thanh Khê
 332,2000000,20,,, Hòa Xuân, Cẩm Lệ
@@ -356,7 +356,7 @@
 354,1300000,20,,, Hòa Minh, Liên Chiểu
 355,2700000,20,1300000,, An Hải Bắc, Sơn Trà
 356,1600000,20,1600000,, Hòa Cường Bắc, Hải Châu
-357,850000,32,1000000,Tình trạng nội thất: Nội thất cao cấp, Khuê Trung, Cẩm Lệ
+357,850000,32,1000000,Nội thất cao cấp, Khuê Trung, Cẩm Lệ
 358,1600000,24,1000000,, Nại Hiên Đông, Sơn Trà
 359,5000000,500000,5000000,Nội thất đầy đủ, Hải Châu I, Hải Châu
 360,1500000,20,1500000,Nhà trống, Hòa Khánh Nam, Liên Chiểu
@@ -374,7 +374,7 @@
 372,2800000,50,500000,Nhà trống, Hoà Hải, Ngũ Hành Sơn
 373,2000000,27,1000000,Nội thất đầy đủ, Hòa Minh, Liên Chiểu
 374,1500000,30,,, Hoà Hải, Ngũ Hành Sơn
-375,2500000,30,2500000,Tình trạng nội thất: Nội thất cao cấp, Hoà Hải, Ngũ Hành Sơn
+375,2500000,30,2500000,Nội thất cao cấp, Hoà Hải, Ngũ Hành Sơn
 376,1000000,20,,Nhà trống, Thanh Khê Đông, Thanh Khê
 377,2600000,20,,, An Hải Bắc, Sơn Trà
 378,900000,30,123456,Nội thất đầy đủ, Hòa Cường Nam, Hải Châu
@@ -414,7 +414,7 @@
 412,1500000,18,500,, Hòa Khánh Bắc, Liên Chiểu
 413,2800000,40,,Nhà trống, Thanh Khê Tây, Thanh Khê
 414,3000000,30,3000000,Nội thất đầy đủ, Hòa Hiệp Nam, Liên Chiểu
-415,3300000,25,3300000,Tình trạng nội thất: Nội thất cao cấp, An Hải Bắc, Sơn Trà
+415,3300000,25,3300000,Nội thất cao cấp, An Hải Bắc, Sơn Trà
 416,2000000,18,1000000,Nội thất đầy đủ, An Khê, Thanh Khê
 417,2000000,20,2000000,, Hòa Cường Bắc, Hải Châu
 418,1000000,16,500000,Nội thất đầy đủ, Hoà Hải, Ngũ Hành Sơn
@@ -426,7 +426,7 @@
 424,3000000,35,,Nội thất đầy đủ, Hòa An, Cẩm Lệ
 425,2500000,20,,Nhà trống, Hòa Cường Nam, Hải Châu
 426,2200000,30,2200000,, Hòa Khánh Nam, Liên Chiểu
-427,1000000,50,500000,Tình trạng nội thất: Nội thất cao cấp, An Hải Đông, Sơn Trà
+427,1000000,50,500000,Nội thất cao cấp, An Hải Đông, Sơn Trà
 428,1500000,15,,, Hòa An, Cẩm Lệ
 429,1200000,25,,Nội thất đầy đủ, Hòa Phước, Hòa Vang
 430,1100000,22,500000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
@@ -477,7 +477,7 @@
 475,2000000,50,,, Nại Hiên Đông, Sơn Trà
 476,1500000,30,1500000,, Hoà Quý, Ngũ Hành Sơn
 477,2000000,20,1000000,, Mỹ An, Ngũ Hành Sơn
-478,4200000,50,4200000,Tình trạng nội thất: Nội thất cao cấp, Mỹ An, Ngũ Hành Sơn
+478,4200000,50,4200000,Nội thất cao cấp, Mỹ An, Ngũ Hành Sơn
 479,800000,20,100000,Nhà trống, Hòa Khánh Bắc, Liên Chiểu
 480,1200000,12,1200000,, Hòa Xuân, Cẩm Lệ
 481,800000,25,200000,Nhà trống, Hòa Thọ Tây, Cẩm Lệ
@@ -583,7 +583,7 @@
 581,2500000,25,1000000,Nội thất đầy đủ, Hòa Xuân, Cẩm Lệ
 582,1500000,14,500000,, Tam Thuận, Thanh Khê
 583,1200000,20,1200000,Nhà trống, Hoà Hải, Ngũ Hành Sơn
-584,2500000,20,2500000,Tình trạng nội thất: Nội thất cao cấp, Chính Gián, Thanh Khê
+584,2500000,20,2500000,Nội thất cao cấp, Chính Gián, Thanh Khê
 585,1800000,20,1800000,, Mân Thái, Sơn Trà
 586,1500000,15,,Nội thất đầy đủ, An Khê, Thanh Khê
 587,1700000,105,3400000,Nhà trống, An Hải Đông, Sơn Trà
@@ -706,7 +706,7 @@
 704,2000000,20,2000000,, Thạc Gián, Thanh Khê
 705,1000000,15,500000,, Thanh Bình, Hải Châu
 706,1300000,30,,Nội thất đầy đủ, Hòa Khánh Bắc, Liên Chiểu
-707,1000000,3,1000000,Tình trạng nội thất: Nội thất cao cấp, Hòa Cường Bắc, Hải Châu
+707,1000000,3,1000000,Nội thất cao cấp, Hòa Cường Bắc, Hải Châu
 708,2000000,15,500,Nội thất đầy đủ, Hòa Cường Nam, Hải Châu
 709,2300000,25,,Nội thất đầy đủ, Hòa Thọ Đông, Cẩm Lệ
 710,1500000,20,1500000,Nội thất đầy đủ, Khuê Trung, Cẩm Lệ
